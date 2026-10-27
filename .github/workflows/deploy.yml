@@ -1,0 +1,39 @@
+name: Deploy to GitHub Pages
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: jdx/mise-action@v5
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v6
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm check
+      - name: Build site and registry
+        run: pnpm build
+        env:
+          VITE_SITE_URL: ${{ steps.pages.outputs.base_url }}
+          VITE_BASE_PATH: ${{ steps.pages.outputs.base_path }}/
+          VITE_GITHUB_REPO_URL: https://github.com/${{ github.repository }}
+          VITE_GITHUB_BRANCH: ${{ github.ref_name }}
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v5

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "shadcn-apple-maps-address-autocomplete",
+  "homepage": "https://iloveitaly.github.io/shadcn-apple-maps-address-autocomplete/",
+  "items": [
+    {
+      "name": "apple-maps-autocomplete",
+      "type": "registry:component",
+      "title": "Apple Maps Address Autocomplete",
+      "description": "Search addresses with Apple Maps, then resolve a suggestion into a structured address.",
+      "dependencies": ["cmdk", "lucide-react"],
+      "registryDependencies": ["command"],
+      "files": [
+        {
+          "path": "registry/new-york/blocks/apple-maps-autocomplete/apple-maps-autocomplete.tsx",
+          "type": "registry:component"
+        },
+        {
+          "path": "registry/new-york/blocks/apple-maps-autocomplete/apple-maps-client.ts",
+          "type": "registry:component",
+          "target": "components/apple-maps-client.ts"
+        }
+      ]
+    }
+  ]
+}

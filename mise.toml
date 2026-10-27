@@ -1,0 +1,5 @@
+[tools]
+node = "24.18.0"
+pnpm = "12.15.0"
+"github:casey/just" = "1.55.1"
+uv = "0.13.5"

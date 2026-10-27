@@ -1,0 +1,1812 @@
+{
+  "autocomplete": [
+    {
+      "query": "90210",
+      "results": [
+        {
+          "completionUrl": "/v1/search?q=90210%20Beverly%20Hills%2C%20CA%2C%20United%20States&metadata=Cg0KBTkwMjEwEgQIABAFEiIKIEJldmVybHkgSGlsbHMsIENBLCBVbml0ZWQgU3RhdGVzGAIyPAoSCQAAAIAfDUFAEQAAAMCsml3AEMbw5omBnbz1pgEgMykAAAAAAAB5QIjxBDOa8QQCVVOy8QQAuvEEAGIHCgU5MDIxMILxBAU5MDIxMIjxBADa8QQXCQAAACAVD5VAGQAAAAAAACZAINAPKAXq8QQA",
+          "displayLines": ["90210", "Beverly Hills, CA, United States"],
+          "location": {
+            "latitude": 34.10252380371094,
+            "longitude": -118.41679382324219
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=90210%20Prairie%20Trail%20Scottsbluff%2C%20NE%2C%20United%20States&metadata=ChsKEzkwMjEwIFByYWlyaWUgVHJhaWwSBAgAEAUSIAoeU2NvdHRzYmx1ZmYsIE5FLCBVbml0ZWQgU3RhdGVzGAIySQoSCQAAAMBO8URAEQAAAAA26FnAEPqG8tTKnIqFpAEgOSkAAAAAAAB5QILxBAU5MDIxMIjxBDGa8QQCVVOg8QQAsvEEALrxBABiBwoFOTAyMTCC8QQFOTAyMTCI8QQA2vEEFgkAAAAArdRwQBkAAAAAAAAAACABKAPq8QQA",
+          "displayLines": [
+            "90210 Prairie Trail",
+            "Scottsbluff, NE, United States"
+          ],
+          "location": {
+            "latitude": 41.885215759277344,
+            "longitude": -103.6282958984375
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=90210%20Surgery%20Medical%20Center%20450%20N%20Roxbury%20Dr%2C%20Ste%20600%2C%20Beverly%20Hills%2C%20CA%20%2090210%2C%20United%20States&metadata=CiQKHDkwMjEwIFN1cmdlcnkgTWVkaWNhbCBDZW50ZXISBAgAEAUSRApCNDUwIE4gUm94YnVyeSBEciwgU3RlIDYwMCwgQmV2ZXJseSBIaWxscywgQ0EgIDkwMjEwLCBVbml0ZWQgU3RhdGVzGAEqIgoSCQAAAKDDCEFAEQAAAMALml3AEOSNodPyi%2BOJugEYrk1iBwoFOTAyMTCC8QQFOTAyMTCI8QQA2vEEQgkAAACA3hOVQBEAAACgmaleQDICZW5CKmhlYWx0aF9jYXJlLnN1cmdlcnkuc3VyZ2VyeV9jZW50ZXIuc3VyZ2VvburxBAA%3D",
+          "displayLines": [
+            "90210 Surgery Medical Center",
+            "450 N Roxbury Dr, Ste 600, Beverly Hills, CA  90210, United States"
+          ],
+          "location": {
+            "latitude": 34.0684700012207,
+            "longitude": -118.40696716308594
+          },
+          "structuredAddress": {
+            "administrativeArea": "California",
+            "administrativeAreaCode": "CA",
+            "subAdministrativeArea": null,
+            "areasOfInterest": null,
+            "dependentLocalities": ["Golden Triangle"],
+            "fullThoroughfare": "450 N Roxbury Dr, Ste 600",
+            "locality": "Beverly Hills",
+            "postCode": "90210",
+            "subLocality": "Golden Triangle",
+            "subThoroughfare": "450",
+            "thoroughfare": "N Roxbury Dr"
+          }
+        }
+      ]
+    },
+    {
+      "query": "1600 Pennsylvania",
+      "results": [
+        {
+          "completionUrl": "/v1/search?q=1600%20Pennsylvania%20Ave%20Dallas%2C%20TX%2C%20United%20States&metadata=CikKFTE2MDAgUGVubnN5bHZhbmlhIEF2ZRIECAAQBBIECAUQDBIECAAQERIbChlEYWxsYXMsIFRYLCBVbml0ZWQgU3RhdGVzGAIySAoSCQAAAAAcYUBAEQAAAGC5MVjAEN3e38WGlZi%2FgQEgOSkAAAAAAAB5QILxBAQxNjAwiPEEMZrxBAJVU6DxBACy8QQAuvEEAGITChExNjAwIFBlbm5zeWx2YW5pYYLxBBExNjAwIFBlbm5zeWx2YW5pYYjxBADa8QQWCQAAAIDCkZBAGQAAAAAAAAAAIAEoA%2BrxBAA%3D",
+          "displayLines": [
+            "1600 Pennsylvania Ave",
+            "Dallas, TX, United States"
+          ],
+          "location": {
+            "latitude": 32.7586669921875,
+            "longitude": -96.77693939208984
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=1600%20Pennsylvania%20Ave%20Miami%20Beach%2C%20FL%2C%20United%20States&metadata=CikKFTE2MDAgUGVubnN5bHZhbmlhIEF2ZRIECAAQBBIECAUQDBIECAAQERIgCh5NaWFtaSBCZWFjaCwgRkwsIFVuaXRlZCBTdGF0ZXMYAjJHChIJAAAAgNDIOUARAAAAYJUIVMAQ2dWr%2F%2FOumLZnIDkpAAAAAAAAeUCC8QQEMTYwMIjxBDGa8QQCVVOg8QQAsvEEALrxBABiEwoRMTYwMCBQZW5uc3lsdmFuaWGC8QQRMTYwMCBQZW5uc3lsdmFuaWGI8QQA2vEEFgkAAABgQqelQBkAAAAAAAAAACABKAPq8QQA",
+          "displayLines": [
+            "1600 Pennsylvania Ave",
+            "Miami Beach, FL, United States"
+          ],
+          "location": {
+            "latitude": 25.78443145751953,
+            "longitude": -80.13411712646484
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=1600%20Pennsylvania%20Ave%20McDonough%2C%20GA%2C%20United%20States&metadata=CikKFTE2MDAgUGVubnN5bHZhbmlhIEF2ZRIECAAQBBIECAUQDBIECAAQERIeChxNY0Rvbm91Z2gsIEdBLCBVbml0ZWQgU3RhdGVzGAIyRwoSCQAAAIC0t0BAEQAAAAAWC1XAEOaIg5DEy8SnOiA5KQAAAAAAAHlAgvEEBDE2MDCI8QQxmvEEAlVToPEEALLxBAC68QQAYhMKETE2MDAgUGVubnN5bHZhbmlhgvEEETE2MDAgUGVubnN5bHZhbmlhiPEEANrxBBYJAAAAoFnYnkAZAAAAAAAAAAAgASgD6vEEAA%3D%3D",
+          "displayLines": [
+            "1600 Pennsylvania Ave",
+            "McDonough, GA, United States"
+          ],
+          "location": {
+            "latitude": 33.43519592285156,
+            "longitude": -84.1732177734375
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=1600%20Pennsylvania%20Ave%20Charleston%2C%20WV%2C%20United%20States&metadata=CikKFTE2MDAgUGVubnN5bHZhbmlhIEF2ZRIECAAQBBIECAUQDBIECAAQERIfCh1DaGFybGVzdG9uLCBXViwgVW5pdGVkIFN0YXRlcxgCMkcKEgkAAABgYS5DQBEAAACgeGdUwBDyp729vaHHvwkgOSkAAAAAAAB5QILxBAQxNjAwiPEEMZrxBAJVU6DxBACy8QQAuvEEAGITChExNjAwIFBlbm5zeWx2YW5pYYLxBBExNjAwIFBlbm5zeWx2YW5pYYjxBADa8QQWCQAAAICZd59AGQAAAAAAAAAAIAEoA%2BrxBAA%3D",
+          "displayLines": [
+            "1600 Pennsylvania Ave",
+            "Charleston, WV, United States"
+          ],
+          "location": {
+            "latitude": 38.36234664916992,
+            "longitude": -81.61673736572266
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=1600%20Pennsylvania%20Ave%20Richmond%2C%20CA%2C%20United%20States&metadata=CikKFTE2MDAgUGVubnN5bHZhbmlhIEF2ZRIECAAQBBIECAUQDBIECAAQERIdChtSaWNobW9uZCwgQ0EsIFVuaXRlZCBTdGF0ZXMYAjJHChIJAAAAAJf4QkARAAAAAKmWXsAQnKvigZX6n%2BZ0IDkpAAAAAAAAeUCC8QQEMTYwMIjxBDGa8QQCVVOg8QQAsvEEALrxBABiEwoRMTYwMCBQZW5uc3lsdmFuaWGC8QQRMTYwMCBQZW5uc3lsdmFuaWGI8QQA2vEEFgkAAAAgar2XQBkAAAAAAAAAACABKAPq8QQA",
+          "displayLines": [
+            "1600 Pennsylvania Ave",
+            "Richmond, CA, United States"
+          ],
+          "location": {
+            "latitude": 37.942108154296875,
+            "longitude": -122.35406494140625
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=1600%20N%20Pennsylvania%20St%20Denver%2C%20CO%2C%20United%20States&metadata=CiQKFjE2MDAgTiBQZW5uc3lsdmFuaWEgU3QSBAgAEAQSBAgHEAwSGwoZRGVudmVyLCBDTywgVW5pdGVkIFN0YXRlcxgCMkgKEgkAAACAL99DQBEAAAAgyj5awBD63beqyceDq8cBIDkpAAAAAAAAeUCC8QQEMTYwMIjxBDGa8QQCVVOg8QQAsvEEALrxBABiEwoRMTYwMCBQZW5uc3lsdmFuaWGC8QQRMTYwMCBQZW5uc3lsdmFuaWGI8QQA2vEEFgkAAADAqJ8hQBkAAAAAAGaoQCABKAPq8QQAkPIEAQ%3D%3D",
+          "displayLines": [
+            "1600 N Pennsylvania St",
+            "Denver, CO, United States"
+          ],
+          "location": {
+            "latitude": 39.74363708496094,
+            "longitude": -104.98108673095703
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=1600%20Pennsylvania%20Ave%20Fort%20Worth%2C%20TX%2C%20United%20States&metadata=CikKFTE2MDAgUGVubnN5bHZhbmlhIEF2ZRIECAAQBBIECAUQDBIECAAQERIfCh1Gb3J0IFdvcnRoLCBUWCwgVW5pdGVkIFN0YXRlcxgCMkcKEgkAAADghV5AQBEAAAAAjFVYwBDavYrl%2F7KMj0ogOSkAAAAAAAB5QILxBAQxNjAwiPEEMZrxBAJVU6DxBACy8QQAuvEEAGITChExNjAwIFBlbm5zeWx2YW5pYYLxBBExNjAwIFBlbm5zeWx2YW5pYYjxBADa8QQWCQAAAOBMEZBAGQAAAAAAAAAAIAEoA%2BrxBACQ8gQB",
+          "displayLines": [
+            "1600 Pennsylvania Ave",
+            "Fort Worth, TX, United States"
+          ],
+          "location": {
+            "latitude": 32.738460540771484,
+            "longitude": -97.336669921875
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=1600%20Pennsylvania%20Ave%20Austin%2C%20TX%2C%20United%20States&metadata=CikKFTE2MDAgUGVubnN5bHZhbmlhIEF2ZRIECAAQBBIECAUQDBIECAAQERIbChlBdXN0aW4sIFRYLCBVbml0ZWQgU3RhdGVzGAIySAoSCQAAAIB6RT5AEQAAAIAvbljAEMmx0Kz8z8Kt6QEgOSkAAAAAAAB5QILxBAQxNjAwiPEEMZrxBAJVU6DxBACy8QQAuvEEAGITChExNjAwIFBlbm5zeWx2YW5pYYLxBBExNjAwIFBlbm5zeWx2YW5pYYjxBADa8QQWCQAAAIAIR5NAGQAAAAAAAAAAIAEoA%2BrxBAA%3D",
+          "displayLines": [
+            "1600 Pennsylvania Ave",
+            "Austin, TX, United States"
+          ],
+          "location": {
+            "latitude": 30.271400451660156,
+            "longitude": -97.72164916992188
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=1600%20Pennsylvania%20Ave%20Los%20Angeles%2C%20CA%2C%20United%20States&metadata=CikKFTE2MDAgUGVubnN5bHZhbmlhIEF2ZRIECAAQBBIECAUQDBIECAAQERIgCh5Mb3MgQW5nZWxlcywgQ0EsIFVuaXRlZCBTdGF0ZXMYAjJIChIJAAAAQH8GQUARAAAAoCKOXcAQxvut65aB7aP6ASA5KQAAAAAAAHlAgvEEBDE2MDCI8QQxmvEEAlVToPEEALLxBAC68QQAYhMKETE2MDAgUGVubnN5bHZhbmlhgvEEETE2MDAgUGVubnN5bHZhbmlhiPEEANrxBBYJAAAAgJTdlEAZAAAAAAAAAAAgASgD6vEEAA%3D%3D",
+          "displayLines": [
+            "1600 Pennsylvania Ave",
+            "Los Angeles, CA, United States"
+          ],
+          "location": {
+            "latitude": 34.050758361816406,
+            "longitude": -118.22086334228516
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=1600%20Pennsylvania%20Ave%20West%20Mifflin%2C%20PA%2C%20United%20States&metadata=CikKFTE2MDAgUGVubnN5bHZhbmlhIEF2ZRIECAAQBBIECAUQDBIECAAQERInCh9XZXN0IE1pZmZsaW4sIFBBLCBVbml0ZWQgU3RhdGVzEgQIDhACGAIySAoSCQAAAOBYLkRAEQAAAMBT91PAEJKo4Nyk%2F%2Fny7wEgOSkAAAAAAAB5QILxBAQxNjAwiPEEMZrxBAJVU6DxBACy8QQAuvEEAGITChExNjAwIFBlbm5zeWx2YW5pYYLxBBExNjAwIFBlbm5zeWx2YW5pYYjxBADa8QQWCQAAAKDpoaBAGQAAAAAAAAAAIAEoA%2BrxBACQ8gQB",
+          "displayLines": [
+            "1600 Pennsylvania Ave",
+            "West Mifflin, PA, United States"
+          ],
+          "location": {
+            "latitude": 40.36208724975586,
+            "longitude": -79.86448669433594
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=1600%20Pennsylvania%20Ave%20Hartshorne%2C%20OK%2C%20United%20States&metadata=CikKFTE2MDAgUGVubnN5bHZhbmlhIEF2ZRIECAAQBBIECAUQDBIECAAQERIfCh1IYXJ0c2hvcm5lLCBPSywgVW5pdGVkIFN0YXRlcxgCMkcKEgkAAAAgFWxBQBEAAABAd%2BNXwBCT%2Fo%2Ff1%2B3dol4gOSkAAAAAAAB5QILxBAQxNjAwiPEEMZrxBAJVU6DxBACy8QQAuvEEAGITChExNjAwIFBlbm5zeWx2YW5pYYLxBBExNjAwIFBlbm5zeWx2YW5pYYjxBADa8QQWCQAAAKCo3Y5AGQAAAAAAAAAAIAEoA%2BrxBAA%3D",
+          "displayLines": [
+            "1600 Pennsylvania Ave",
+            "Hartshorne, OK, United States"
+          ],
+          "location": {
+            "latitude": 34.84439468383789,
+            "longitude": -95.55415344238281
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=1600%20S%20Pennsylvania%20St%20Denver%2C%20CO%2C%20United%20States&metadata=CiQKFjE2MDAgUyBQZW5uc3lsdmFuaWEgU3QSBAgAEAQSBAgHEAwSGwoZRGVudmVyLCBDTywgVW5pdGVkIFN0YXRlcxgCMkcKEgkAAABA8NdDQBEAAACg0j5awBCTmbqK1oCjiXcgOSkAAAAAAAB5QILxBAQxNjAwiPEEMZrxBAJVU6DxBACy8QQAuvEEAGITChExNjAwIFBlbm5zeWx2YW5pYYLxBBExNjAwIFBlbm5zeWx2YW5pYYjxBADa8QQWCQAAAIAR1xFAGQAAAAAAoqNAIAEoA%2BrxBACQ8gQB",
+          "displayLines": [
+            "1600 S Pennsylvania St",
+            "Denver, CO, United States"
+          ],
+          "location": {
+            "latitude": 39.68701934814453,
+            "longitude": -104.98160552978516
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=1600%20Pennsylvania%20Ave%20West%20Sacramento%2C%20CA%2C%20United%20States&metadata=CikKFTE2MDAgUGVubnN5bHZhbmlhIEF2ZRIECAAQBBIECAUQDBIECAAQERIkCiJXZXN0IFNhY3JhbWVudG8sIENBLCBVbml0ZWQgU3RhdGVzGAIyRwoSCQAAAOBUSENAEQAAAOAKYl7AEOTdmrroiZ2MXiA5KQAAAAAAAHlAgvEEBDE2MDCI8QQxmvEEAlVToPEEALLxBAC68QQAYhMKETE2MDAgUGVubnN5bHZhbmlhgvEEETE2MDAgUGVubnN5bHZhbmlhiPEEANrxBBYJAAAAAARtlkAZAAAAAAAAAAAgASgD6vEEAA%3D%3D",
+          "displayLines": [
+            "1600 Pennsylvania Ave",
+            "West Sacramento, CA, United States"
+          ],
+          "location": {
+            "latitude": 38.56509017944336,
+            "longitude": -121.53191375732422
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=1600%20Pennsylvania%20Ave%20Clearmont%2C%20WY%2C%20United%20States&metadata=CikKFTE2MDAgUGVubnN5bHZhbmlhIEF2ZRIECAAQBBIECAUQDBIECAAQERIeChxDbGVhcm1vbnQsIFdZLCBVbml0ZWQgU3RhdGVzGAIySAoSCQAAAKDCUUZAEQAAAEBcmFrAEM%2BgkMjG2qy9pQEgOSkAAAAAAAB5QILxBAQxNjAwiPEEMZrxBAJVU6DxBACy8QQAuvEEAGITChExNjAwIFBlbm5zeWx2YW5pYYLxBBExNjAwIFBlbm5zeWx2YW5pYYjxBADa8QQWCQAAAOB6poFAGQAAAAAAAAAAIAEoA%2BrxBAA%3D",
+          "displayLines": [
+            "1600 Pennsylvania Ave",
+            "Clearmont, WY, United States"
+          ],
+          "location": {
+            "latitude": 44.63875198364258,
+            "longitude": -106.38063049316406
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=1600%20Pennsylvania%20Ave%20S%20Minneapolis%2C%20MN%2C%20United%20States&metadata=CisKFzE2MDAgUGVubnN5bHZhbmlhIEF2ZSBTEgQIABAEEgQIBRAMEgQIABAREiAKHk1pbm5lYXBvbGlzLCBNTiwgVW5pdGVkIFN0YXRlcxgCMkcKEgkAAADg03tGQBEAAAAgFFhXwBDSzZacocjY%2Fi0gOSkAAAAAAAB5QILxBAQxNjAwiPEEMZrxBAJVU6DxBACy8QQAuvEEAGITChExNjAwIFBlbm5zeWx2YW5pYYLxBBExNjAwIFBlbm5zeWx2YW5pYYjxBADa8QQWCQAAAGArcJFAGQAAAAAAAAAAIAEoA%2BrxBACQ8gQB",
+          "displayLines": [
+            "1600 Pennsylvania Ave S",
+            "Minneapolis, MN, United States"
+          ],
+          "location": {
+            "latitude": 44.967403411865234,
+            "longitude": -93.37622833251953
+          },
+          "structuredAddress": null
+        }
+      ]
+    },
+    {
+      "query": "1 Infinite Loop",
+      "results": [
+        {
+          "completionUrl": "/v1/search?q=1%20Infinite%20Loop%20Cupertino%2C%20CA%2C%20United%20States&metadata=CikKDzEgSW5maW5pdGUgTG9vcBIECAAQARIECAIQCBIECAsQBBIECAAQDxIeChxDdXBlcnRpbm8sIENBLCBVbml0ZWQgU3RhdGVzGAIyRAoSCQAAAACBqkJAEQAAAAD4gV7AEKivk9O5neDUdyA5KQAAAAAAAHlAgvEEATGI8QQxmvEEAlVToPEEALLxBAC68QQAYhEKDzEgSW5maW5pdGUgTG9vcILxBA8xIEluZmluaXRlIExvb3CI8QQA2vEEFgkAAACATJCXQBkAAAAAAAAAACABKAPq8QQAkPIEAQ%3D%3D",
+          "displayLines": ["1 Infinite Loop", "Cupertino, CA, United States"],
+          "location": {
+            "latitude": 37.332061767578125,
+            "longitude": -122.03076171875
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=Apple%20Campus%20-%20One%20Infinite%20Loop%20Apple%20Inc.%2C%201%20Infinite%20Loop%2C%20Cupertino%2C%20CA%2095014%2C%20United%20States&metadata=Ci4KIEFwcGxlIENhbXB1cyAtIE9uZSBJbmZpbml0ZSBMb29wEgQIExAIEgQIHBAEEkEKP0FwcGxlIEluYy4sIDEgSW5maW5pdGUgTG9vcCwgQ3VwZXJ0aW5vLCBDQSA5NTAxNCwgVW5pdGVkIFN0YXRlcxgBKiIKEgkAAABgeqpCQBEAAADg5IFewBD0h4aD8Nbb7ZIBGK5NYhEKDzEgSW5maW5pdGUgTG9vcILxBA8xIEluZmluaXRlIExvb3CI8QQA2vEERgkAAACg7I%2BXQBEAAACAPUqJQDICZW5CLmNvbW1lcmNpYWxfc2VjdG9yLnJlYWxfZXN0YXRlLmNvcnBvcmF0ZV9jYW1wdXPq8QQA",
+          "displayLines": [
+            "Apple Campus - One Infinite Loop",
+            "Apple Inc., 1 Infinite Loop, Cupertino, CA 95014, United States"
+          ],
+          "location": {
+            "latitude": 37.33185958862305,
+            "longitude": -122.02959442138672
+          },
+          "structuredAddress": {
+            "administrativeArea": "California",
+            "administrativeAreaCode": "CA",
+            "subAdministrativeArea": null,
+            "areasOfInterest": null,
+            "dependentLocalities": null,
+            "fullThoroughfare": "1 Infinite Loop",
+            "locality": "Cupertino",
+            "postCode": "95014",
+            "subLocality": null,
+            "subThoroughfare": "1",
+            "thoroughfare": "Infinite Loop"
+          }
+        },
+        {
+          "completionUrl": "/v1/search?q=1%20Infinite%20Dr%20Louisville%2C%20CO%2C%20United%20States&metadata=ChsKDTEgSW5maW5pdGUgRHISBAgAEAESBAgCEAgSHwodTG91aXN2aWxsZSwgQ08sIFVuaXRlZCBTdGF0ZXMYAjJAChIJAAAAwOP7Q0ARAAAAYAtLWsAQkuuD0pK4vLREIDkpAAAAAAAAeUCC8QQBMYjxBDGa8QQCVVOy8QQAuvEEAGIRCg8xIEluZmluaXRlIExvb3CC8QQPMSBJbmZpbml0ZSBMb29wiPEEANrxBBYJAAAAwPlMQ0AZAAAAAAAAAAAgASgD6vEEAJDyBAE%3D",
+          "displayLines": ["1 Infinite Dr", "Louisville, CO, United States"],
+          "location": {
+            "latitude": 39.96788787841797,
+            "longitude": -105.17256927490234
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=1%20Infinite%20Way%20Carbondale%2C%20IL%2C%20United%20States&metadata=ChwKDjEgSW5maW5pdGUgV2F5EgQIABABEgQIAhAIEh8KHUNhcmJvbmRhbGUsIElMLCBVbml0ZWQgU3RhdGVzGAIyRAoSCQAAAOBi10JAEQAAACAKUlbAEMCe7b6crIvLTCA5KQAAAAAAAHlAgvEEATGI8QQxmvEEAlVToPEEAbLxBAC68QQAYhEKDzEgSW5maW5pdGUgTG9vcILxBA8xIEluZmluaXRlIExvb3CI8QQA2vEEFgkAAAAAoHqVQBkAAAAAAAAAACABKAPq8QQA",
+          "displayLines": ["1 Infinite Way", "Carbondale, IL, United States"],
+          "location": {
+            "latitude": 37.68270492553711,
+            "longitude": -89.28186798095703
+          },
+          "structuredAddress": null
+        }
+      ]
+    },
+    {
+      "query": "Denver",
+      "results": [
+        {
+          "completionUrl": "/v1/search?q=Denver%20International%20Airport%208500%20Pe%C3%B1a%20Blvd%2C%20Denver%2C%20CO%20%2080249%2C%20United%20States&metadata=CiQKHERlbnZlciBJbnRlcm5hdGlvbmFsIEFpcnBvcnQSBAgAEAYSMwoxODUwMCBQZcOxYSBCbHZkLCBEZW52ZXIsIENPICA4MDI0OSwgVW5pdGVkIFN0YXRlcxgBKiEKEgkAAAAAtOxDQBEAAABgHytawBCLyITwiYmuzwkYrk1iCAoGRGVudmVygvEEBkRlbnZlcojxBADa8QRECQAAAGCJez1AEQAAACC1%2BNRAMgJlbkIsdHJhbnNwb3J0YXRpb24uYWlycG9ydC5pbnRlcm5hdGlvbmFsX2FpcnBvcnTq8QQA",
+          "displayLines": [
+            "Denver International Airport",
+            "8500 Peña Blvd, Denver, CO  80249, United States"
+          ],
+          "location": {
+            "latitude": 39.8492431640625,
+            "longitude": -104.67378997802734
+          },
+          "structuredAddress": {
+            "administrativeArea": "Colorado",
+            "administrativeAreaCode": "CO",
+            "subAdministrativeArea": null,
+            "areasOfInterest": null,
+            "dependentLocalities": null,
+            "fullThoroughfare": "8500 Peña Blvd",
+            "locality": "Denver",
+            "postCode": "80249",
+            "subLocality": null,
+            "subThoroughfare": "8500",
+            "thoroughfare": "Peña Blvd"
+          }
+        },
+        {
+          "completionUrl": "/v1/search?q=Denver%2C%20CO%20United%20States&metadata=ChIKCkRlbnZlciwgQ08SBAgAEAYSDwoNVW5pdGVkIFN0YXRlcxgCMtgJChIJAAAAgJ7eQ0ARAAAAIGE%2FWsAQz%2FiZ0Z2C0Z9oIBApAAAAAAAAeUCI8QT4B5rxBAJVU6rxBJcJMTg5NDU2Njc1NTU2NTU2OTUyOjEwNjAsMTkzOTYwMjc1MTg3MDczMjEzOjEwNjAsMTkzOTYwMjc1MjA1OTQ3NTMxOjEwNjAsMTgwNDQ5NDc2MzE4NTkzMjM3OjEwNjAsMTk4NDYzODc0NzU3ODIwNjI5OjEwNjAsMTk4NDYzODc0OTAwNDI2ODk1OjEwNjAsMTg5NDU2Njc1NjA1ODQwMDIzOjEwNjAsMTk4NDYzODc0NzgxOTM3OTA5OjEwNjAsMTkzOTYwMjc1MTU2NjY0NTAzOjEwNjAsMTg5NDU2Njc1NTE1NjYyNTA3OjEwNjAsMTk4NDYzODc0NzAwMTQ5MTUzOjEwNjAsMTkzOTYwMjc1MDgxMTY3MDU1OjEwNjAsMTg5NDU2Njc1NTc5NjI1NjM1OjEwNjAsMTg0OTUzMDc1OTI4MTM3ODY5OjEwNjAsMTkzOTYwMjc1MjM1MzA3NjE3OjEwNjAsMTg0OTUzMDc1OTM2NTI2Nzk1OjEwNjAsMTg0OTUzMDc1ODkzNTM0OTkxOjEwNjAsMTg0OTUzMDc1ODM1ODYzNDEyOjEwNjAsMTk4NDYzODc0NzAzMjk0NzYxOjEwNjAsMTkzOTYwMjc1MTkzMzY0NjA1OjEwNjAsMTgwNDQ5NDc2MjEyNjg2OTYzOjEwNjAsMTgwNDQ5NDc2MjEyNjg3MTEzOjEwNjAsMTkzOTYwMjc1MTU5ODEwMzc4OjEwNjAsMTg0OTUzMDc1OTI4MTM3OTYzOjEwNjAsMTk4NDYzODc0NzU3ODIwNzU5OjEwNjAsMTkzOTYwMjc1MTU2NjY0NTg5OjEwNjAsMTgwNDQ5NDc2MzE4NTkzMTk1OjEwNjAsMTg0OTUzMDc1OTQ5MTA5NjE1OjEwNjAsMTk4NDYzODc0NzM3ODk3ODAxOjEwNjAsMTkzOTYwMjc1MTkzMzY0NjY5OjEwNjAsMTkzOTYwMjc1MjM1MzA3NzMzOjEwNjAsMTgwNDQ5NDc2MjEyNjg3MDczOjEwNjAsMTk4NDYzODc0NzEyNzMxODE1OjEwNjAsMTg0OTUzMDc1ODkzNTM0ODQ1OjEwNjAsMTQ0MTUwMDgwNzI0NjcxMjQwOjEwMTYsMTk4NDYzODc0NzU3ODIwNjU1OjEwNjAsMTgwNDQ5NDc2MjkzNDI3MzQxOjEwNjAsMTkzOTYwMjc2NzMzNzIyODk1OjEwNjAsMTkzOTYwMjc1MTc4Njg0Njc5OjEwNjAsMTg5NDU2Njc1NTc5NjI1NjA3OjEwNjAsMTkzOTYwMjc1MTc4Njg0NTU5OjEwNjAsMTk4NDYzODc0NzgxOTM3Nzk1OjEwNjAsMTkzOTYwMjc1MTA0MjM1ODAxOjEwNjAsMTkzOTYwMjc1MTMyNTQ3MjY5OjEwNjAsMTkzOTYwMjc1MTA0MjM1NjkzOjEwNjAsMTgwNDQ5NDc2MjEyNjg3MjE3OjEwNjAsMTk4NDYzODc0NzEyNzMxODg5OjEwNjAsMTkzOTYwMjc1MjA1OTQ3NjAxOjEwNjAsMTgwNDQ5NDc2MzQyNzEwNDMzOjEwNjCy8QQAuvEEAGIICgZEZW52ZXKC8QQGRGVudmVyiPEEANrxBBgJAAAAwJOZIUAZAAAAAMBw0EAgod4rKALq8QQA",
+          "displayLines": ["Denver, CO", "United States"],
+          "location": {
+            "latitude": 39.73921203613281,
+            "longitude": -104.99030303955078
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=University%20of%20Denver%202199%20S%20University%20Blvd&metadata=ChwKFFVuaXZlcnNpdHkgb2YgRGVudmVyEgQIDhAGEhgKFjIxOTkgUyBVbml2ZXJzaXR5IEJsdmQYASohChIJAAAA4MXWQ0ARAAAA4KU9WsAQicCk2un4orlPGK5NYggKBkRlbnZlcoLxBAZEZW52ZXKI8QQA2vEESAkAAACgk28FQBEAAAAgbrLAQDICZW5CMGNpdmlsX3NlcnZpY2UuZWR1Y2F0aW9uYWxfaW5zdGl0dXRpb24udW5pdmVyc2l0eerxBAA%3D",
+          "displayLines": ["University of Denver", "2199 S University Blvd"],
+          "location": {
+            "latitude": 39.677913665771484,
+            "longitude": -104.96324920654297
+          },
+          "structuredAddress": {
+            "administrativeArea": "Colorado",
+            "administrativeAreaCode": "CO",
+            "subAdministrativeArea": null,
+            "areasOfInterest": null,
+            "dependentLocalities": ["Southeast", "University"],
+            "fullThoroughfare": "2199 S University Blvd",
+            "locality": "Denver",
+            "postCode": "80208",
+            "subLocality": "University",
+            "subThoroughfare": "2199",
+            "thoroughfare": "S University Blvd"
+          }
+        },
+        {
+          "completionUrl": "/v1/search?q=Denver%20Zoo%202300%20Steele%20St%2C%20Denver%2C%20CO%2080205%2C%20United%20States&metadata=ChIKCkRlbnZlciBab28SBAgAEAYSMQovMjMwMCBTdGVlbGUgU3QsIERlbnZlciwgQ08gODAyMDUsIFVuaXRlZCBTdGF0ZXMYASoiChIJAAAAIAngQ0ARAAAAIMA8WsAQsqDU1ZHjorTuARiuTWIICgZEZW52ZXKC8QQGRGVudmVyiPEEANrxBC4JAAAAoPQ%2FIUARAAAAwEyKzEAyAmVuQhZ0cmF2ZWxfYW5kX2xlaXN1cmUuem9v6vEEAA%3D%3D",
+          "displayLines": [
+            "Denver Zoo",
+            "2300 Steele St, Denver, CO 80205, United States"
+          ],
+          "location": {
+            "latitude": 39.75027847290039,
+            "longitude": -104.94922637939453
+          },
+          "structuredAddress": {
+            "administrativeArea": "Colorado",
+            "administrativeAreaCode": "CO",
+            "subAdministrativeArea": null,
+            "areasOfInterest": null,
+            "dependentLocalities": ["City Park", "Northeast"],
+            "fullThoroughfare": "2300 Steele St",
+            "locality": "Denver",
+            "postCode": "80205",
+            "subLocality": "City Park",
+            "subThoroughfare": "2300",
+            "thoroughfare": "Steele St"
+          }
+        },
+        {
+          "completionUrl": "/v1/search?q=Denver%2C%20NC%20United%20States&metadata=ChIKCkRlbnZlciwgTkMSBAgAEAYSDwoNVW5pdGVkIFN0YXRlcxgCMoUBChIJAAAAoBPBQUARAAAAYLBCVMAQhOz2o7ShmukjIBApAAAAAAAAeUCI8QSkCJrxBAJVU6rxBEUxNDQxNTAwODA3MjQ2NzM2MDQ6MTYsMTg0OTUzMDc1OTc4NDcwMjc4OjEwNjAsMTg5NDU2Njc1NTMzNDg4OTY2OjEwNjCy8QQAuvEEAGIICgZEZW52ZXKC8QQGRGVudmVyiPEEANrxBBYJAAAAgOrIoEAZAAAAAADAVkAgACgC6vEEAA%3D%3D",
+          "displayLines": ["Denver, NC", "United States"],
+          "location": {
+            "latitude": 35.5084114074707,
+            "longitude": -81.0420150756836
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=Denver%20International%20Airport%20Arrivals%208500%20Pe%C3%B1a%20Blvd%2C%20Denver%2C%20CO%20%2080249%2C%20United%20States&metadata=Ci0KJURlbnZlciBJbnRlcm5hdGlvbmFsIEFpcnBvcnQgQXJyaXZhbHMSBAgAEAYSMwoxODUwMCBQZcOxYSBCbHZkLCBEZW52ZXIsIENPICA4MDI0OSwgVW5pdGVkIFN0YXRlcxgBKiEKEgkAAADAC%2B1DQBEAAACgICtawBDGnrPR4pX1iGAYrk1iCAoGRGVudmVygvEEBkRlbnZlcojxBADa8QQ%2FCQAAAEDbrD1AEQAAACC1%2BNRAMgJlbkIndHJhbnNwb3J0YXRpb24uYWlycG9ydC5haXJwb3J0X3Rlcm1pbmFs6vEEAA%3D%3D",
+          "displayLines": [
+            "Denver International Airport Arrivals",
+            "8500 Peña Blvd, Denver, CO  80249, United States"
+          ],
+          "location": {
+            "latitude": 39.85192108154297,
+            "longitude": -104.67386627197266
+          },
+          "structuredAddress": {
+            "administrativeArea": "Colorado",
+            "administrativeAreaCode": "CO",
+            "subAdministrativeArea": null,
+            "areasOfInterest": null,
+            "dependentLocalities": null,
+            "fullThoroughfare": "8500 Peña Blvd",
+            "locality": "Denver",
+            "postCode": "80249",
+            "subLocality": null,
+            "subThoroughfare": "8500",
+            "thoroughfare": "Peña Blvd"
+          }
+        },
+        {
+          "completionUrl": "/v1/search?q=Denver%20Tech%20Center%20Greenwood%20Village%2C%20CO%2C%20United%20States&metadata=ChoKEkRlbnZlciBUZWNoIENlbnRlchIECAAQBhImCiRHcmVlbndvb2QgVmlsbGFnZSwgQ08sIFVuaXRlZCBTdGF0ZXMYAjI8ChIJAAAAQCXPQ0ARAAAAIBM5WsAQoM%2BPw6XkpZmgASArKQAAAAAAAHlAiPEEK5rxBAJVU7LxBAC68QQAYggKBkRlbnZlcoLxBAZEZW52ZXKI8QQA2vEEFwkAAAAA%2BVIcQBkAAAAAADOwQCDQDygC6vEEAA%3D%3D",
+          "displayLines": [
+            "Denver Tech Center",
+            "Greenwood Village, CO, United States"
+          ],
+          "location": {
+            "latitude": 39.618324279785156,
+            "longitude": -104.89179229736328
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=Denver%2C%20IA%20United%20States&metadata=ChIKCkRlbnZlciwgSUESBAgAEAYSDwoNVW5pdGVkIFN0YXRlcxgCMocBChIJAAAAgD9WRUARAAAAAJYVV8AQ856C97%2FuwLBwIBApAAAAAAAAeUCI8QT4B5rxBAJVU6rxBEcxNDQxNTAwODA4ODgyNDg5NTU6MTAxNiwxODk0NTY2NzU1Nzk2MjYyNjY6MTA2MCwxODA0NDk0NzYyODM5OTAwMTk6MTA2MLLxBAC68QQAYggKBkRlbnZlcoLxBAZEZW52ZXKI8QQA2vEEFwkAAAAg0EGRQBkAAAAAAAA6QCCaDygC6vEEAA%3D%3D",
+          "displayLines": ["Denver, IA", "United States"],
+          "location": {
+            "latitude": 42.67381286621094,
+            "longitude": -92.3372802734375
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=Denver%2C%20PA%20United%20States&metadata=ChIKCkRlbnZlciwgUEESBAgAEAYSDwoNVW5pdGVkIFN0YXRlcxgCMogBChIJAAAAINgdREARAAAAYMgIU8AQ%2FuH71Yzm05iKASAQKQAAAAAAAHlAiPEE%2BAea8QQCVVOq8QRHMTk4NDYzODc0ODM3NTEyNjEzOjEwNjAsMTkzOTYwMjc1MTQ0MDgyNDUxOjEwNjAsMTQ0MTUwMDgwNzI2NzY0MDc5OjEwMTay8QQAuvEEAGIICgZEZW52ZXKC8QQGRGVudmVyiPEEANrxBBcJAAAAoNUYo0AZAAAAAAAAMkAgrh0oAurxBAA%3D",
+          "displayLines": ["Denver, PA", "United States"],
+          "location": {
+            "latitude": 40.233158111572266,
+            "longitude": -76.1372299194336
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=Denver%20City%2C%20TX%20United%20States&metadata=ChcKD0RlbnZlciBDaXR5LCBUWBIECAAQBhIPCg1Vbml0ZWQgU3RhdGVzGAIyiAEKEgkAAADA43tAQBEAAAAgErVZwBD9pcnujYKUvv4BIBApAAAAAAAAeUCI8QT4B5rxBAJVU6rxBEcxOTg0NjM4NzQ3OTg3MTU3NDY6MTA2MCwxNDQxNTAwODA3MjY3NjU5NDg6MTAxNiwxOTg0NjM4NzQ3MDAxNDkwODM6MTA2MLLxBAC68QQAYggKBkRlbnZlcoLxBAZEZW52ZXKI8QQA2vEEFwkAAAAgRAiIQBkAAAAAAEBSQCDNISgC6vEEAA%3D%3D",
+          "displayLines": ["Denver City, TX", "United States"],
+          "location": {
+            "latitude": 32.96788787841797,
+            "longitude": -102.82923126220703
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=Denver%20Broncos%20Stadium%201701%20Bryant%20Street%2C%20Denver%2C%20CO%2080204%2C%20United%20States.&metadata=Ch4KFkRlbnZlciBCcm9uY29zIFN0YWRpdW0SBAgAEAYSNgo0MTcwMSBCcnlhbnQgU3RyZWV0LCBEZW52ZXIsIENPIDgwMjA0LCBVbml0ZWQgU3RhdGVzLhgBKiEKEgkAAABgON9DQBEAAAAASUFawBDzzaia9NX1rzUYrk1iCAoGRGVudmVygvEEBkRlbnZlcojxBADa8QQ%2BCQAAAIC%2BoiVAEQAAAMAVpdFAMgJlbkImdHJhdmVsX2FuZF9sZWlzdXJlLnN0YWRpdW1zX2FuZF9hcmVuYXPq8QQA",
+          "displayLines": [
+            "Denver Broncos Stadium",
+            "1701 Bryant Street, Denver, CO 80204, United States."
+          ],
+          "location": {
+            "latitude": 39.7439079284668,
+            "longitude": -105.02008056640625
+          },
+          "structuredAddress": {
+            "administrativeArea": "Colorado",
+            "administrativeAreaCode": "CO",
+            "subAdministrativeArea": null,
+            "areasOfInterest": null,
+            "dependentLocalities": ["Sun Valley"],
+            "fullThoroughfare": "1701 Bryant Street, Unit 700",
+            "locality": "Denver",
+            "postCode": "80204",
+            "subLocality": "Sun Valley",
+            "subThoroughfare": "1701",
+            "thoroughfare": "Bryant Street"
+          }
+        },
+        {
+          "completionUrl": "/v1/search?q=Denver%20Presbyterian%20Hospital%201719%20E%2019th%20Ave%2C%20Denver%2C%20CO%20%2080218%2C%20United%20States&metadata=CiQKHERlbnZlciBQcmVzYnl0ZXJpYW4gSG9zcGl0YWwSBAgAEAYSMwoxMTcxOSBFIDE5dGggQXZlLCBEZW52ZXIsIENPICA4MDIxOCwgVW5pdGVkIFN0YXRlcxgBKiEKEgkAAADAkN9DQBEAAABA3j1awBD815fZ1NL7tGgYrk1iCAoGRGVudmVygvEEBkRlbnZlcojxBADa8QQ9CQAAACCNOCFAEQAAACAuwLBAMgJlbkIlaGVhbHRoX2NhcmUuaG9zcGl0YWxfc2VydmljZS5ob3NwaXRhbOrxBAA%3D",
+          "displayLines": [
+            "Denver Presbyterian Hospital",
+            "1719 E 19th Ave, Denver, CO  80218, United States"
+          ],
+          "location": {
+            "latitude": 39.746604919433594,
+            "longitude": -104.96669006347656
+          },
+          "structuredAddress": {
+            "administrativeArea": "Colorado",
+            "administrativeAreaCode": "CO",
+            "subAdministrativeArea": null,
+            "areasOfInterest": null,
+            "dependentLocalities": ["City Park West", "City Park", "Northeast"],
+            "fullThoroughfare": "1719 E 19th Ave",
+            "locality": "Denver",
+            "postCode": "80218",
+            "subLocality": "City Park West",
+            "subThoroughfare": "1719",
+            "thoroughfare": "E 19th Ave"
+          }
+        },
+        {
+          "completionUrl": "/v1/search?q=denver%20loews%204150%20E%20Mississippi%20Ave%2C%20Glendale%2C%20CO%2080246%2C%20United%20States&metadata=ChQKDGRlbnZlciBsb2V3cxIECAAQBhI7Cjk0MTUwIEUgTWlzc2lzc2lwcGkgQXZlLCBHbGVuZGFsZSwgQ08gODAyNDYsIFVuaXRlZCBTdGF0ZXMYASohChIJAAAAgAXZQ0ARAAAAABE8WsAQluPkvPWcvK8LGK5NYggKBkRlbnZlcoLxBAZEZW52ZXKI8QQA2vEERQkAAABg7LwDQBEAAABguOuYQDICZW5CLXRyYXZlbF9hbmRfbGVpc3VyZS50cmF2ZWxfYWNjb21tb2RhdGlvbi5ob3RlbOrxBAA%3D",
+          "displayLines": [
+            "denver loews",
+            "4150 E Mississippi Ave, Glendale, CO 80246, United States"
+          ],
+          "location": {
+            "latitude": 39.69548034667969,
+            "longitude": -104.93853759765625
+          },
+          "structuredAddress": {
+            "administrativeArea": "Colorado",
+            "administrativeAreaCode": "CO",
+            "subAdministrativeArea": null,
+            "areasOfInterest": null,
+            "dependentLocalities": ["Virginia Village", "Southeast"],
+            "fullThoroughfare": "4150 E Mississippi Ave",
+            "locality": "Glendale",
+            "postCode": "80246",
+            "subLocality": "Virginia Village",
+            "subThoroughfare": "4150",
+            "thoroughfare": "E Mississippi Ave"
+          }
+        },
+        {
+          "completionUrl": "/v1/search?q=Denver%20Motor%20Vehicle%202243%20S%20Monaco%20Pkwy%2C%20Denver%2C%20CO%20%2080222%2C%20United%20States&metadata=ChwKFERlbnZlciBNb3RvciBWZWhpY2xlEgQIABAGEjYKNDIyNDMgUyBNb25hY28gUGt3eSwgRGVudmVyLCBDTyAgODAyMjIsIFVuaXRlZCBTdGF0ZXMYASohChIJAAAAIKTWQ0ARAAAAAIs6WsAQ9Zew%2F7Ow2Lp5GK5NYggKBkRlbnZlcoLxBAZEZW52ZXKI8QQA2vEEagkAAAAAZM74PxEAAACA67%2BSQDICZW5CUmNpdmlsX3NlcnZpY2UuZ292ZXJubWVudF9vZmZpY2UuZ292ZXJubWVudF9kZXBhcnRtZW50LmRlcGFydG1lbnRfb2ZfbW90b3JfdmVoaWNsZXPq8QQA",
+          "displayLines": [
+            "Denver Motor Vehicle",
+            "2243 S Monaco Pkwy, Denver, CO  80222, United States"
+          ],
+          "location": {
+            "latitude": 39.676883697509766,
+            "longitude": -104.91473388671875
+          },
+          "structuredAddress": {
+            "administrativeArea": "Colorado",
+            "administrativeAreaCode": "CO",
+            "subAdministrativeArea": null,
+            "areasOfInterest": null,
+            "dependentLocalities": ["Goldsmith", "Southeast"],
+            "fullThoroughfare": "2243 S Monaco Pkwy",
+            "locality": "Denver",
+            "postCode": "80222",
+            "subLocality": "Goldsmith",
+            "subThoroughfare": "2243",
+            "thoroughfare": "S Monaco Pkwy"
+          }
+        },
+        {
+          "completionUrl": "/v1/search?q=Denver%20West%20Colorado%20Mills%20Blvd%20Golden%2C%20CO%2C%20United%20States&metadata=CicKH0RlbnZlciBXZXN0IENvbG9yYWRvIE1pbGxzIEJsdmQSBAgAEAYSGwoZR29sZGVuLCBDTywgVW5pdGVkIFN0YXRlcxgCMjwKEgkAAADgDt1DQBEAAADAmUpawBCAkd2onMmRu7QBIDEpAAAAAAAAeUCI8QQxmvEEAlVTsvEEALrxBABiCAoGRGVudmVygvEEBkRlbnZlcojxBADa8QQWCQAAAEAR0DRAGQAAAAAAYGdAIAEoA%2BrxBACQ8gQB",
+          "displayLines": [
+            "Denver West Colorado Mills Blvd",
+            "Golden, CO, United States"
+          ],
+          "location": {
+            "latitude": 39.72701644897461,
+            "longitude": -105.16563415527344
+          },
+          "structuredAddress": null
+        }
+      ]
+    },
+    {
+      "query": "350 5th Avenue",
+      "results": [
+        {
+          "completionUrl": "/v1/search?q=350%205th%20Ave%20Huntington%2C%20WV%2C%20United%20States&metadata=Ch8KCzM1MCA1dGggQXZlEgQIABADEgQIBBADEgQICBADEh8KHUh1bnRpbmd0b24sIFdWLCBVbml0ZWQgU3RhdGVzGAIyRwoSCQAAAGB3NUNAEQAAACACnVTAEN7Nk%2BucwMOu3gEgOSkAAAAAAAB5QILxBAMzNTCI8QQxmvEEAlVToPEEALLxBAC68QQAYhAKDjM1MCA1dGggQXZlbnVlgvEEDjM1MCA1dGggQXZlbnVliPEEANrxBBYJAAAAoNNUnkAZAAAAAAAAAAAgASgD6vEEAA%3D%3D",
+          "displayLines": ["350 5th Ave", "Huntington, WV, United States"],
+          "location": {
+            "latitude": 38.41770553588867,
+            "longitude": -82.45325469970703
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=350%20Fifth%20Ave%20N%20South%20Saint%20Paul%2C%20MN%2C%20United%20States&metadata=Ch0KDzM1MCBGaWZ0aCBBdmUgThIECAAQAxIECAoQAxIlCiNTb3V0aCBTYWludCBQYXVsLCBNTiwgVW5pdGVkIFN0YXRlcxgCMkYKEgkAAAAgcHJGQBEAAADgiEJXwBChosKWhLjBtgwgOSkAAAAAAAB5QILxBAMzNTCI8QQxmvEEAlVToPEEALLxBAC68QQAYhAKDjM1MCA1dGggQXZlbnVlgvEEDjM1MCA1dGggQXZlbnVliPEEANrxBBYJAAAAgJG%2FkUAZAAAAAAAAAAAgASgD6vEEAA%3D%3D",
+          "displayLines": [
+            "350 Fifth Ave N",
+            "South Saint Paul, MN, United States"
+          ],
+          "location": {
+            "latitude": 44.894046783447266,
+            "longitude": -93.03960418701172
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=350%20Fifth%20Ave%20N%20Clinton%2C%20IA%2C%20United%20States&metadata=Ch0KDzM1MCBGaWZ0aCBBdmUgThIECAAQAxIECAoQAxIcChpDbGludG9uLCBJQSwgVW5pdGVkIFN0YXRlcxgCMkYKEgkAAADgrexEQBEAAADAro1WwBCNpo%2Bb3ovz%2FEogOSkAAAAAAAB5QILxBAMzNTCI8QQxmvEEAlVToPEEALLxBAC68QQAYhAKDjM1MCA1dGggQXZlbnVlgvEEDjM1MCA1dGggQXZlbnVliPEEANrxBBYJAAAAAGy1k0AZAAAAAAAAAAAgASgD6vEEAA%3D%3D",
+          "displayLines": ["350 Fifth Ave N", "Clinton, IA, United States"],
+          "location": {
+            "latitude": 41.849056243896484,
+            "longitude": -90.21379089355469
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=350%205th%20Ave%20San%20Francisco%2C%20CA%2C%20United%20States&metadata=Ch8KCzM1MCA1dGggQXZlEgQIABADEgQIBBADEgQICBADEiIKIFNhbiBGcmFuY2lzY28sIENBLCBVbml0ZWQgU3RhdGVzGAIyRgoSCQAAAMDD40JAEQAAAGCjnV7AEK70sPXylcatWSA5KQAAAAAAAHlAgvEEAzM1MIjxBDGa8QQCVVOg8QQAsvEEALrxBABiEAoOMzUwIDV0aCBBdmVudWWC8QQOMzUwIDV0aCBBdmVudWWI8QQA2vEEFgkAAACgBPOXQBkAAAAAAAAAACABKAPq8QQAkPIEAQ%3D%3D",
+          "displayLines": ["350 5th Ave", "San Francisco, CA, United States"],
+          "location": {
+            "latitude": 37.77941131591797,
+            "longitude": -122.46309661865234
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=350%20Fifth%20Ave%20S%20Minneapolis%2C%20MN%2C%20United%20States&metadata=Ch0KDzM1MCBGaWZ0aCBBdmUgUxIECAAQAxIECAoQAxIgCh5NaW5uZWFwb2xpcywgTU4sIFVuaXRlZCBTdGF0ZXMYAjJHChIJAAAAoPJ8RkARAAAAoN9QV8AQ8ZnAjeTo96TkASA5KQAAAAAAAHlAgvEEAzM1MIjxBDGa8QQCVVOg8QQAsvEEALrxBABiEAoOMzUwIDV0aCBBdmVudWWC8QQOMzUwIDV0aCBBdmVudWWI8QQA2vEEFgkAAABAWpGRQBkAAAAAAAAAACABKAPq8QQAkPIEAQ%3D%3D",
+          "displayLines": ["350 Fifth Ave S", "Minneapolis, MN, United States"],
+          "location": {
+            "latitude": 44.97615432739258,
+            "longitude": -93.2636489868164
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=350%20Fifth%20Ave%20Venice%2C%20CA%2C%20United%20States&metadata=ChsKDTM1MCBGaWZ0aCBBdmUSBAgAEAMSBAgKEAMSGwoZVmVuaWNlLCBDQSwgVW5pdGVkIFN0YXRlcxgCMkcKEgkAAABgu%2F9AQBEAAABgVZ5dwBD8t5yjxung5roBIDkpAAAAAAAAeUCC8QQDMzUwiPEEMZrxBAJVU6DxBACy8QQAuvEEAGIQCg4zNTAgNXRoIEF2ZW51ZYLxBA4zNTAgNXRoIEF2ZW51ZYjxBADa8QQWCQAAACBTOZVAGQAAAAAAAAAAIAEoA%2BrxBAA%3D",
+          "displayLines": ["350 Fifth Ave", "Venice, CA, United States"],
+          "location": {
+            "latitude": 33.99790573120117,
+            "longitude": -118.47396087646484
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=350%20Fifth%20Ave%20Manistee%2C%20MI%2C%20United%20States&metadata=ChsKDTM1MCBGaWZ0aCBBdmUSBAgAEAMSBAgKEAMSHQobTWFuaXN0ZWUsIE1JLCBVbml0ZWQgU3RhdGVzGAIyRwoSCQAAAKD2H0ZAEQAAACBClVXAELm1k6rQydv5pAEgOSkAAAAAAAB5QILxBAMzNTCI8QQxmvEEAlVToPEEALLxBAC68QQAYhAKDjM1MCA1dGggQXZlbnVlgvEEDjM1MCA1dGggQXZlbnVliPEEANrxBBYJAAAA4NQ%2BmUAZAAAAAAAAAAAgASgD6vEEAA%3D%3D",
+          "displayLines": ["350 Fifth Ave", "Manistee, MI, United States"],
+          "location": {
+            "latitude": 44.24971389770508,
+            "longitude": -86.33216094970703
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=350%20Fifth%20Ave%20E%20Twin%20Falls%2C%20ID%2C%20United%20States&metadata=Ch0KDzM1MCBGaWZ0aCBBdmUgRRIECAAQAxIECAoQAxIfCh1Ud2luIEZhbGxzLCBJRCwgVW5pdGVkIFN0YXRlcxgCMkcKEgkAAAAg%2FEZFQBEAAACgf51cwBDImJeHw5O8rpsBIDkpAAAAAAAAeUCC8QQDMzUwiPEEMZrxBAJVU6DxBACy8QQAuvEEAGIQCg4zNTAgNXRoIEF2ZW51ZYLxBA4zNTAgNXRoIEF2ZW51ZYjxBADa8QQWCQAAACDz24pAGQAAAAAAAAAAIAEoA%2BrxBAA%3D",
+          "displayLines": ["350 Fifth Ave E", "Twin Falls, ID, United States"],
+          "location": {
+            "latitude": 42.554569244384766,
+            "longitude": -114.4609146118164
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=350%20W%205th%20Ave%20Eugene%2C%20OR%2C%20United%20States&metadata=CiEKDTM1MCBXIDV0aCBBdmUSBAgAEAMSBAgGEAMSBAgKEAMSGwoZRXVnZW5lLCBPUiwgVW5pdGVkIFN0YXRlcxgCMkYKEgkAAABg9AZGQBEAAAAAXMZewBCo1qCi%2Fc3qh0UgOSkAAAAAAAB5QILxBAMzNTCI8QQxmvEEAlVToPEEALLxBAC68QQAYhAKDjM1MCA1dGggQXZlbnVlgvEEDjM1MCA1dGggQXZlbnVliPEEANrxBBYJAAAAQLalmEAZAAAAAAAAAAAgASgD6vEEAA%3D%3D",
+          "displayLines": ["350 W 5th Ave", "Eugene, OR, United States"],
+          "location": {
+            "latitude": 44.0543327331543,
+            "longitude": -123.099365234375
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=350%20Fifth%20Ave%20Half%20Moon%20Bay%2C%20CA%2C%20United%20States&metadata=ChsKDTM1MCBGaWZ0aCBBdmUSBAgAEAMSBAgKEAMSIgogSGFsZiBNb29uIEJheSwgQ0EsIFVuaXRlZCBTdGF0ZXMYAjJGChIJAAAAIJm%2FQkARAAAAID2dXsAQkoC9mu%2BKsJ10IDkpAAAAAAAAeUCC8QQDMzUwiPEEMZrxBAJVU6DxBACy8QQAuvEEAGIQCg4zNTAgNXRoIEF2ZW51ZYLxBA4zNTAgNXRoIEF2ZW51ZYjxBADa8QQWCQAAAAAQD5hAGQAAAAAAAAAAIAEoA%2BrxBAA%3D",
+          "displayLines": ["350 Fifth Ave", "Half Moon Bay, CA, United States"],
+          "location": {
+            "latitude": 37.49686050415039,
+            "longitude": -122.45685577392578
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=350%20Fifth%20Ave%20Manilla%2C%20IA%2C%20United%20States&metadata=ChsKDTM1MCBGaWZ0aCBBdmUSBAgAEAMSBAgKEAMSHAoaTWFuaWxsYSwgSUEsIFVuaXRlZCBTdGF0ZXMYAjJHChIJAAAAYL%2FxREARAAAAwNDOV8AQrun20MqpsqrRASA5KQAAAAAAAHlAgvEEAzM1MIjxBDGa8QQCVVOg8QQAsvEEALrxBABiEAoOMzUwIDV0aCBBdmVudWWC8QQOMzUwIDV0aCBBdmVudWWI8QQA2vEEFgkAAAAgfqSKQBkAAAAAAAAAACABKAPq8QQA",
+          "displayLines": ["350 Fifth Ave", "Manilla, IA, United States"],
+          "location": {
+            "latitude": 41.88865280151367,
+            "longitude": -95.23149108886719
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=350%20Fifth%20Ave%20Seaside%2C%20OR%2C%20United%20States&metadata=ChsKDTM1MCBGaWZ0aCBBdmUSBAgAEAMSBAgKEAMSHAoaU2Vhc2lkZSwgT1IsIFVuaXRlZCBTdGF0ZXMYAjJHChIJAAAAwKz%2FRkARAAAAIAD7XsAQ9ILFoLH0paCGASA5KQAAAAAAAHlAgvEEAzM1MIjxBDGa8QQCVVOg8QQAsvEEALrxBABiEAoOMzUwIDV0aCBBdmVudWWC8QQOMzUwIDV0aCBBdmVudWWI8QQA2vEEFgkAAAAgFHyaQBkAAAAAAAAAACABKAPq8QQA",
+          "displayLines": ["350 Fifth Ave", "Seaside, OR, United States"],
+          "location": {
+            "latitude": 45.997459411621094,
+            "longitude": -123.92188262939453
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=350%20Fifth%20Ave%20Lyons%2C%20CO%2C%20United%20States&metadata=ChsKDTM1MCBGaWZ0aCBBdmUSBAgAEAMSBAgKEAMSGgoYTHlvbnMsIENPLCBVbml0ZWQgU3RhdGVzGAIyRgoSCQAAAIBZHERAEQAAAOBiUVrAEPCt%2BMi1%2FYz%2BayA5KQAAAAAAAHlAgvEEAzM1MIjxBDGa8QQCVVOg8QQBsvEEALrxBABiEAoOMzUwIDV0aCBBdmVudWWC8QQOMzUwIDV0aCBBdmVudWWI8QQA2vEEFgkAAADgttpQQBkAAAAAAAA3QCABKAPq8QQA",
+          "displayLines": ["350 Fifth Ave", "Lyons, CO, United States"],
+          "location": {
+            "latitude": 40.22148132324219,
+            "longitude": -105.27165985107422
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=350%20W%20Fifth%20Ave%20Escondido%2C%20CA%2C%20United%20States&metadata=Ch0KDzM1MCBXIEZpZnRoIEF2ZRIECAAQAxIECAwQAxIeChxFc2NvbmRpZG8sIENBLCBVbml0ZWQgU3RhdGVzGAIyRgoSCQAAAACljkBAEQAAAECERV3AEIPYipu17pnMcSA5KQAAAAAAAHlAgvEEAzM1MIjxBDGa8QQCVVOg8QQAsvEEALrxBABiEAoOMzUwIDV0aCBBdmVudWWC8QQOMzUwIDV0aCBBdmVudWWI8QQA2vEEFgkAAAAAV2%2BUQBkAAAAAAAAAACABKAPq8QQAkPIEAQ%3D%3D",
+          "displayLines": ["350 W Fifth Ave", "Escondido, CA, United States"],
+          "location": {
+            "latitude": 33.114410400390625,
+            "longitude": -117.08619689941406
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=350%20E%20Fifth%20Ave%20Denver%2C%20CO%2C%20United%20States&metadata=Ch0KDzM1MCBFIEZpZnRoIEF2ZRIECAAQAxIECAwQAxIbChlEZW52ZXIsIENPLCBVbml0ZWQgU3RhdGVzGAIyRgoSCQAAAACw3ENAEQAAAMDfPlrAELek2%2FqhifGRHCA5KQAAAAAAAHlAgvEEAzM1MIjxBDGa8QQCVVOg8QQBsvEEALrxBABiEAoOMzUwIDV0aCBBdmVudWWC8QQOMzUwIDV0aCBBdmVudWWI8QQA2vEEFgkAAABgqCwcQBkAAAAAANBxQCABKAPq8QQAkPIEAQ%3D%3D",
+          "displayLines": ["350 E Fifth Ave", "Denver, CO, United States"],
+          "location": {
+            "latitude": 39.72412109375,
+            "longitude": -104.98240661621094
+          },
+          "structuredAddress": null
+        }
+      ]
+    },
+    {
+      "query": "11 Wall Street",
+      "results": [
+        {
+          "completionUrl": "/v1/search?q=11%20Wall%20St%20New%20York%2C%20NY%2C%20United%20States&metadata=Ch4KCjExIFdhbGwgU3QSBAgAEAISBAgDEAQSBAgIEAISIwobTmV3IFlvcmssIE5ZLCBVbml0ZWQgU3RhdGVzEgQIFRACGAIyRQoSCQAAAABqWkRAEQAAAMCbgFLAEN3p6cedhI%2BqdSA5KQAAAAAAAHlAgvEEAjExiPEEMZrxBAJVU6DxBACy8QQAuvEEAGIQCg4xMSBXYWxsIFN0cmVldILxBA4xMSBXYWxsIFN0cmVldIjxBADa8QQWCQAAAEA0b6RAGQAAAAAAAAAAIAEoA%2BrxBAA%3D",
+          "displayLines": ["11 Wall St", "New York, NY, United States"],
+          "location": {
+            "latitude": 40.70635986328125,
+            "longitude": -74.00950622558594
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=Pier%2011%20%2F%20Wall%20Street%20Terminal%20New%20York%2C%20NY%2C%20United%20States&metadata=CjgKHlBpZXIgMTEgLyBXYWxsIFN0cmVldCBUZXJtaW5hbBIECAUQAhIECAoQBBIECA8QBhIECAUQEBIdChtOZXcgWW9yaywgTlksIFVuaXRlZCBTdGF0ZXMYASotChIJAAAAgPVZREARAAAAoGSAUsAQ2NfWwKbX7%2BUtGK5NgPEE4%2F%2BRoYqmvblpYhAKDjExIFdhbGwgU3RyZWV0gvEEDjExIFdhbGwgU3RyZWV0iPEEANrxBEsJAAAAQN9vpEARAAAA4COJtkAyAmVuQjN0cmFuc3BvcnRhdGlvbi50cmFuc3BvcnRhdGlvbl9zZXJ2aWNlLmZlcnJ5X3NlcnZpY2Xq8QQA",
+          "displayLines": [
+            "Pier 11 / Wall Street Terminal",
+            "New York, NY, United States"
+          ],
+          "location": {
+            "latitude": 40.70280456542969,
+            "longitude": -74.00614166259766
+          },
+          "structuredAddress": {
+            "administrativeArea": "New York",
+            "administrativeAreaCode": "NY",
+            "subAdministrativeArea": null,
+            "areasOfInterest": null,
+            "dependentLocalities": null,
+            "fullThoroughfare": null,
+            "locality": "New York",
+            "postCode": null,
+            "subLocality": null,
+            "subThoroughfare": null,
+            "thoroughfare": null
+          }
+        },
+        {
+          "completionUrl": "/v1/search?q=11%20Wall%20St%20Asheville%2C%20NC%2C%20United%20States&metadata=Ch4KCjExIFdhbGwgU3QSBAgAEAISBAgDEAQSBAgIEAISJAocQXNoZXZpbGxlLCBOQywgVW5pdGVkIFN0YXRlcxIECBYQAhgCMkUKEgkAAABAHcxBQBEAAAAAk6NUwBDniL6dxcz3zhogOSkAAAAAAAB5QILxBAIxMYjxBDGa8QQCVVOg8QQAsvEEALrxBABiEAoOMTEgV2FsbCBTdHJlZXSC8QQOMTEgV2FsbCBTdHJlZXSI8QQA2vEEFgkAAADg%2FICfQBkAAAAAAAAAACABKAPq8QQA",
+          "displayLines": ["11 Wall St", "Asheville, NC, United States"],
+          "location": {
+            "latitude": 35.594642639160156,
+            "longitude": -82.55584716796875
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=11%20Wall%20St%20Jefferson%2C%20OH%2C%20United%20States&metadata=Ch4KCjExIFdhbGwgU3QSBAgAEAISBAgDEAQSBAgIEAISJAocSmVmZmVyc29uLCBPSCwgVW5pdGVkIFN0YXRlcxIECBYQAhgCMkYKEgkAAABgo95EQBEAAABALDFUwBDyoJXz4KPfqZMBIDkpAAAAAAAAeUCC8QQCMTGI8QQxmvEEAlVToPEEALLxBAC68QQAYhAKDjExIFdhbGwgU3RyZWV0gvEEDjExIFdhbGwgU3RyZWV0iPEEANrxBBYJAAAA4Nvrn0AZAAAAAAAAAAAgASgD6vEEAA%3D%3D",
+          "displayLines": ["11 Wall St", "Jefferson, OH, United States"],
+          "location": {
+            "latitude": 41.73936080932617,
+            "longitude": -80.76832580566406
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=11%20Wall%20St%20Passaic%2C%20NJ%2C%20United%20States&metadata=Ch4KCjExIFdhbGwgU3QSBAgAEAISBAgDEAQSBAgIEAISIgoaUGFzc2FpYywgTkosIFVuaXRlZCBTdGF0ZXMSBAgUEAIYAjJGChIJAAAAwIluREARAAAAIBuHUsAQ57m%2F1aDslKWEASA5KQAAAAAAAHlAgvEEAjExiPEEMZrxBAJVU6DxBACy8QQAuvEEAGIQCg4xMSBXYWxsIFN0cmVldILxBA4xMSBXYWxsIFN0cmVldIjxBADa8QQWCQAAAEC0WaRAGQAAAAAAAAAAIAEoA%2BrxBAA%3D",
+          "displayLines": ["11 Wall St", "Passaic, NJ, United States"],
+          "location": {
+            "latitude": 40.86357879638672,
+            "longitude": -74.11103057861328
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=11%20N%20Wall%20St%20Cartersville%2C%20GA%2C%20United%20States&metadata=CiAKDDExIE4gV2FsbCBTdBIECAAQAhIECAUQBBIECAoQAhInCh9DYXJ0ZXJzdmlsbGUsIEdBLCBVbml0ZWQgU3RhdGVzEgQIGRACGAIyRQoSCQAAAABRFUFAEQAAAGDuMlXAENHs%2BoLpmqmYeiA5KQAAAAAAAHlAgvEEAjExiPEEMZrxBAJVU6DxBACy8QQAuvEEAGIQCg4xMSBXYWxsIFN0cmVldILxBA4xMSBXYWxsIFN0cmVldIjxBADa8QQWCQAAAIALfJ1AGQAAAAAAAAAAIAEoA%2BrxBAA%3D",
+          "displayLines": ["11 N Wall St", "Cartersville, GA, United States"],
+          "location": {
+            "latitude": 34.166534423828125,
+            "longitude": -84.7957992553711
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=11%20Wall%20St%20Cranford%2C%20NJ%2C%20United%20States&metadata=Ch4KCjExIFdhbGwgU3QSBAgAEAISBAgDEAQSBAgIEAISIwobQ3JhbmZvcmQsIE5KLCBVbml0ZWQgU3RhdGVzEgQIFRACGAIyRQoSCQAAAKCwUkRAEQAAAMC%2FklLAEML%2Fxq%2FltJu3TCA5KQAAAAAAAHlAgvEEAjExiPEEMZrxBAJVU6DxBACy8QQAuvEEAGIQCg4xMSBXYWxsIFN0cmVldILxBA4xMSBXYWxsIFN0cmVldIjxBADa8QQWCQAAAICfQaRAGQAAAAAAAAAAIAEoA%2BrxBACQ8gQB",
+          "displayLines": ["11 Wall St", "Cranford, NJ, United States"],
+          "location": {
+            "latitude": 40.64601516723633,
+            "longitude": -74.29295349121094
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=11%20Wall%20St%20Metuchen%2C%20NJ%2C%20United%20States&metadata=Ch4KCjExIFdhbGwgU3QSBAgAEAISBAgDEAQSBAgIEAISIwobTWV0dWNoZW4sIE5KLCBVbml0ZWQgU3RhdGVzEgQIFRACGAIyRgoSCQAAAGBNR0RAEQAAAIC%2BlFLAENyp2PqgxfyAmwEgOSkAAAAAAAB5QILxBAIxMYjxBDGa8QQCVVOg8QQAsvEEALrxBABiEAoOMTEgV2FsbCBTdHJlZXSC8QQOMTEgV2FsbCBTdHJlZXSI8QQA2vEEFgkAAABgFz%2BkQBkAAAAAAAAAACABKAPq8QQA",
+          "displayLines": ["11 Wall St", "Metuchen, NJ, United States"],
+          "location": {
+            "latitude": 40.55704879760742,
+            "longitude": -74.32412719726562
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=11%20Wall%20St%20Coin%2C%20IA%2C%20United%20States&metadata=Ch4KCjExIFdhbGwgU3QSBAgAEAISBAgDEAQSBAgIEAISHwoXQ29pbiwgSUEsIFVuaXRlZCBTdGF0ZXMSBAgREAIYAjJFChIJAAAAwDpUREARAAAAYOzOV8AQjcWbmqyp%2B5EkIDkpAAAAAAAAeUCC8QQCMTGI8QQxmvEEAlVToPEEALLxBAC68QQAYhAKDjExIFdhbGwgU3RyZWV0gvEEDjExIFdhbGwgU3RyZWV0iPEEANrxBBYJAAAAAMH3iUAZAAAAAAAAAAAgASgD6vEEAA%3D%3D",
+          "displayLines": ["11 Wall St", "Coin, IA, United States"],
+          "location": {
+            "latitude": 40.658042907714844,
+            "longitude": -95.2331771850586
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=11%20Wall%20St%20Newark%2C%20NJ%2C%20United%20States&metadata=Ch4KCjExIFdhbGwgU3QSBAgAEAISBAgDEAQSBAgIEAISIQoZTmV3YXJrLCBOSiwgVW5pdGVkIFN0YXRlcxIECBMQAhgCMkUKEgkAAABAHF1EQBEAAABAxolSwBDQk5X0%2FLaWnBYgOSkAAAAAAAB5QILxBAIxMYjxBDGa8QQCVVOg8QQAsvEEALrxBABiEAoOMTEgV2FsbCBTdHJlZXSC8QQOMTEgV2FsbCBTdHJlZXSI8QQA2vEEFgkAAADAp1akQBkAAAAAAAAAACABKAPq8QQAkPIEAQ%3D%3D",
+          "displayLines": ["11 Wall St", "Newark, NJ, United States"],
+          "location": {
+            "latitude": 40.72742462158203,
+            "longitude": -74.15272521972656
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=11%20Wall%20St%20Tonawanda%2C%20NY%2C%20United%20States&metadata=Ch4KCjExIFdhbGwgU3QSBAgAEAISBAgDEAQSBAgIEAISJAocVG9uYXdhbmRhLCBOWSwgVW5pdGVkIFN0YXRlcxIECBYQAhgCMkUKEgkAAADAHYFFQBEAAADAQLhTwBDq5d2qpP76nHsgOSkAAAAAAAB5QILxBAIxMYjxBDGa8QQCVVOg8QQAsvEEALrxBABiEAoOMTEgV2FsbCBTdHJlZXSC8QQOMTEgV2FsbCBTdHJlZXSI8QQA2vEEFgkAAADgjSqhQBkAAAAAAAAAACABKAPq8QQA",
+          "displayLines": ["11 Wall St", "Tonawanda, NY, United States"],
+          "location": {
+            "latitude": 43.00872039794922,
+            "longitude": -78.87895202636719
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=11%20Wall%20St%20Rockville%2C%20MD%2C%20United%20States&metadata=Ch4KCjExIFdhbGwgU3QSBAgAEAISBAgDEAQSBAgIEAISJAocUm9ja3ZpbGxlLCBNRCwgVW5pdGVkIFN0YXRlcxIECBYQAhgCMkUKEgkAAAAAs4pDQBEAAAAAS0pTwBDmi%2FWO3J%2FQ1k0gOSkAAAAAAAB5QILxBAIxMYjxBDGa8QQCVVOg8QQAsvEEALrxBABiEAoOMTEgV2FsbCBTdHJlZXSC8QQOMTEgV2FsbCBTdHJlZXSI8QQA2vEEFgkAAAAgppSiQBkAAAAAAAAAACABKAPq8QQA",
+          "displayLines": ["11 Wall St", "Rockville, MD, United States"],
+          "location": {
+            "latitude": 39.083587646484375,
+            "longitude": -77.16082763671875
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=11%20Wall%20St%20Milford%2C%20CT%2C%20United%20States&metadata=Ch4KCjExIFdhbGwgU3QSBAgAEAISBAgDEAQSBAgIEAISIgoaTWlsZm9yZCwgQ1QsIFVuaXRlZCBTdGF0ZXMSBAgUEAIYAjJGChIJAAAAgHidREARAAAAYGs%2FUsAQg9G6ptrZ2LPAASA5KQAAAAAAAHlAgvEEAjExiPEEMZrxBAJVU6DxBACy8QQAuvEEAGIQCg4xMSBXYWxsIFN0cmVldILxBA4xMSBXYWxsIFN0cmVldIjxBADa8QQWCQAAAAAICqVAGQAAAAAAAAAAIAEoA%2BrxBAA%3D",
+          "displayLines": ["11 Wall St", "Milford, CT, United States"],
+          "location": {
+            "latitude": 41.23023986816406,
+            "longitude": -72.99092864990234
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=11%20Wall%20St%20Beech%20Island%2C%20SC%2C%20United%20States&metadata=Ch4KCjExIFdhbGwgU3QSBAgAEAISBAgDEAQSBAgIEAISJwofQmVlY2ggSXNsYW5kLCBTQywgVW5pdGVkIFN0YXRlcxIECBkQAhgCMkUKEgkAAADgor9AQBEAAAAgO3hUwBDt3ZCK2frerjYgOSkAAAAAAAB5QILxBAIxMYjxBDGa8QQCVVOg8QQAsvEEALrxBABiEAoOMTEgV2FsbCBTdHJlZXSC8QQOMTEgV2FsbCBTdHJlZXSI8QQA2vEEFgkAAABgZuWgQBkAAAAAAAAAACABKAPq8QQA",
+          "displayLines": ["11 Wall St", "Beech Island, SC, United States"],
+          "location": {
+            "latitude": 33.49715805053711,
+            "longitude": -81.87860870361328
+          },
+          "structuredAddress": null
+        },
+        {
+          "completionUrl": "/v1/search?q=11%20Wall%20St%20Shelton%2C%20CT%2C%20United%20States&metadata=Ch4KCjExIFdhbGwgU3QSBAgAEAISBAgDEAQSBAgIEAISIgoaU2hlbHRvbiwgQ1QsIFVuaXRlZCBTdGF0ZXMSBAgUEAIYAjJGChIJAAAAgFioREARAAAAwC1GUsAQk%2BjM%2FuOW7427ASA5KQAAAAAAAHlAgvEEAjExiPEEMZrxBAJVU6DxBACy8QQAuvEEAGIQCg4xMSBXYWxsIFN0cmVldILxBA4xMSBXYWxsIFN0cmVldIjxBADa8QQWCQAAAIBB9qRAGQAAAAAAAAAAIAEoA%2BrxBAA%3D",
+          "displayLines": ["11 Wall St", "Shelton, CT, United States"],
+          "location": {
+            "latitude": 41.31520080566406,
+            "longitude": -73.09654235839844
+          },
+          "structuredAddress": null
+        }
+      ]
+    }
+  ],
+  "completions": [
+    {
+      "completionUrl": "/v1/search?q=90210%20Beverly%20Hills%2C%20CA%2C%20United%20States&metadata=Cg0KBTkwMjEwEgQIABAFEiIKIEJldmVybHkgSGlsbHMsIENBLCBVbml0ZWQgU3RhdGVzGAIyPAoSCQAAAIAfDUFAEQAAAMCsml3AEMbw5omBnbz1pgEgMykAAAAAAAB5QIjxBDOa8QQCVVOy8QQAuvEEAGIHCgU5MDIxMILxBAU5MDIxMIjxBADa8QQXCQAAACAVD5VAGQAAAAAAACZAINAPKAXq8QQA",
+      "place": {
+        "id": null,
+        "name": "90210",
+        "coordinate": {
+          "latitude": 34.1025226,
+          "longitude": -118.4167959
+        },
+        "formattedAddressLines": ["Beverly Hills, CA  90210", "United States"],
+        "structuredAddress": {
+          "administrativeArea": "California",
+          "administrativeAreaCode": "CA",
+          "subAdministrativeArea": null,
+          "areasOfInterest": null,
+          "dependentLocalities": ["Beverly Crest"],
+          "fullThoroughfare": null,
+          "locality": "Los Angeles",
+          "postCode": "90210",
+          "subLocality": "Beverly Crest",
+          "subThoroughfare": null,
+          "thoroughfare": null
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -118.3841183,
+          "northLatitude": 34.1408089,
+          "southLatitude": 34.0642363,
+          "westLongitude": -118.4458607
+        },
+        "alternateIds": null,
+        "poiCategory": null
+      }
+    },
+    {
+      "completionUrl": "/v1/search?q=90210%20Prairie%20Trail%20Scottsbluff%2C%20NE%2C%20United%20States&metadata=ChsKEzkwMjEwIFByYWlyaWUgVHJhaWwSBAgAEAUSIAoeU2NvdHRzYmx1ZmYsIE5FLCBVbml0ZWQgU3RhdGVzGAIySQoSCQAAAMBO8URAEQAAAAA26FnAEPqG8tTKnIqFpAEgOSkAAAAAAAB5QILxBAU5MDIxMIjxBDGa8QQCVVOg8QQAsvEEALrxBABiBwoFOTAyMTCC8QQFOTAyMTCI8QQA2vEEFgkAAAAArdRwQBkAAAAAAAAAACABKAPq8QQA",
+      "place": {
+        "id": null,
+        "name": "90210 Prairie Trail",
+        "coordinate": {
+          "latitude": 41.8859784,
+          "longitude": -103.6299763
+        },
+        "formattedAddressLines": [
+          "90210 Prairie Trail",
+          "Scottsbluff, NE  69361",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "Nebraska",
+          "administrativeAreaCode": "NE",
+          "subAdministrativeArea": null,
+          "areasOfInterest": null,
+          "dependentLocalities": null,
+          "fullThoroughfare": "90210 Prairie Trail",
+          "locality": "Scottsbluff",
+          "postCode": "69361",
+          "subLocality": null,
+          "subThoroughfare": "90210",
+          "thoroughfare": "Prairie Trail"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -103.62394308642791,
+          "northLatitude": 41.8904699764206,
+          "southLatitude": 41.8814868235794,
+          "westLongitude": -103.63600951357208
+        },
+        "alternateIds": null,
+        "poiCategory": null
+      }
+    },
+    {
+      "completionUrl": "/v1/search?q=90210%20Surgery%20Medical%20Center%20450%20N%20Roxbury%20Dr%2C%20Ste%20600%2C%20Beverly%20Hills%2C%20CA%20%2090210%2C%20United%20States&metadata=CiQKHDkwMjEwIFN1cmdlcnkgTWVkaWNhbCBDZW50ZXISBAgAEAUSRApCNDUwIE4gUm94YnVyeSBEciwgU3RlIDYwMCwgQmV2ZXJseSBIaWxscywgQ0EgIDkwMjEwLCBVbml0ZWQgU3RhdGVzGAEqIgoSCQAAAKDDCEFAEQAAAMALml3AEOSNodPyi%2BOJugEYrk1iBwoFOTAyMTCC8QQFOTAyMTCI8QQA2vEEQgkAAACA3hOVQBEAAACgmaleQDICZW5CKmhlYWx0aF9jYXJlLnN1cmdlcnkuc3VyZ2VyeV9jZW50ZXIuc3VyZ2VvburxBAA%3D",
+      "place": {
+        "id": "IBA138C5F2A6846E4",
+        "name": "90210 Surgery Medical Center",
+        "coordinate": {
+          "latitude": 34.0684683,
+          "longitude": -118.4069654
+        },
+        "formattedAddressLines": [
+          "450 N Roxbury Dr",
+          "Ste 600",
+          "Beverly Hills, CA  90210",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "California",
+          "administrativeAreaCode": "CA",
+          "subAdministrativeArea": null,
+          "areasOfInterest": null,
+          "dependentLocalities": ["Golden Triangle"],
+          "fullThoroughfare": "450 N Roxbury Dr, Ste 600",
+          "locality": "Beverly Hills",
+          "postCode": "90210",
+          "subLocality": "Golden Triangle",
+          "subThoroughfare": "450",
+          "thoroughfare": "N Roxbury Dr"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -118.4015371,
+          "northLatitude": 34.0729649,
+          "southLatitude": 34.0639716,
+          "westLongitude": -118.4123936
+        },
+        "alternateIds": null,
+        "poiCategory": null
+      }
+    },
+    {
+      "completionUrl": "/v1/search?q=1600%20Pennsylvania%20Ave%20Dallas%2C%20TX%2C%20United%20States&metadata=CikKFTE2MDAgUGVubnN5bHZhbmlhIEF2ZRIECAAQBBIECAUQDBIECAAQERIbChlEYWxsYXMsIFRYLCBVbml0ZWQgU3RhdGVzGAIySAoSCQAAAAAcYUBAEQAAAGC5MVjAEN3e38WGlZi%2FgQEgOSkAAAAAAAB5QILxBAQxNjAwiPEEMZrxBAJVU6DxBACy8QQAuvEEAGITChExNjAwIFBlbm5zeWx2YW5pYYLxBBExNjAwIFBlbm5zeWx2YW5pYYjxBADa8QQWCQAAAIDCkZBAGQAAAAAAAAAAIAEoA%2BrxBAA%3D",
+      "place": {
+        "id": null,
+        "name": "1600 Pennsylvania Ave",
+        "coordinate": {
+          "latitude": 32.7590366,
+          "longitude": -96.7755075
+        },
+        "formattedAddressLines": [
+          "1600 Pennsylvania Ave",
+          "Dallas, TX  75215",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "Texas",
+          "administrativeAreaCode": "TX",
+          "subAdministrativeArea": null,
+          "areasOfInterest": null,
+          "dependentLocalities": ["The Cedars", "Cedars", "Cedar Crest"],
+          "fullThoroughfare": "1600 Pennsylvania Ave",
+          "locality": "Dallas",
+          "postCode": "75215",
+          "subLocality": "The Cedars",
+          "subThoroughfare": "1600",
+          "thoroughfare": "Pennsylvania Ave"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -96.7701664490922,
+          "northLatitude": 32.7635281764206,
+          "southLatitude": 32.754545023579404,
+          "westLongitude": -96.7808485509078
+        },
+        "alternateIds": null,
+        "poiCategory": null
+      }
+    },
+    {
+      "completionUrl": "/v1/search?q=1600%20Pennsylvania%20Ave%20Miami%20Beach%2C%20FL%2C%20United%20States&metadata=CikKFTE2MDAgUGVubnN5bHZhbmlhIEF2ZRIECAAQBBIECAUQDBIECAAQERIgCh5NaWFtaSBCZWFjaCwgRkwsIFVuaXRlZCBTdGF0ZXMYAjJHChIJAAAAgNDIOUARAAAAYJUIVMAQ2dWr%2F%2FOumLZnIDkpAAAAAAAAeUCC8QQEMTYwMIjxBDGa8QQCVVOg8QQAsvEEALrxBABiEwoRMTYwMCBQZW5uc3lsdmFuaWGC8QQRMTYwMCBQZW5uc3lsdmFuaWGI8QQA2vEEFgkAAABgQqelQBkAAAAAAAAAACABKAPq8QQA",
+      "place": {
+        "id": null,
+        "name": "1600 Pennsylvania Ave",
+        "coordinate": {
+          "latitude": 25.7892404,
+          "longitude": -80.134593
+        },
+        "formattedAddressLines": [
+          "1600 Pennsylvania Ave",
+          "Miami Beach, FL  33139",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "Florida",
+          "administrativeAreaCode": "FL",
+          "subAdministrativeArea": null,
+          "areasOfInterest": null,
+          "dependentLocalities": [
+            "Flamingo/Lummus",
+            "Art Deco District",
+            "South Beach"
+          ],
+          "fullThoroughfare": "1600 Pennsylvania Ave",
+          "locality": "Miami Beach",
+          "postCode": "33139",
+          "subLocality": "Flamingo/Lummus",
+          "subThoroughfare": "1600",
+          "thoroughfare": "Pennsylvania Ave"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -80.12960457931207,
+          "northLatitude": 25.7937319764206,
+          "southLatitude": 25.784748823579402,
+          "westLongitude": -80.13958142068792
+        },
+        "alternateIds": null,
+        "poiCategory": null
+      }
+    },
+    {
+      "completionUrl": "/v1/search?q=1600%20Pennsylvania%20Ave%20McDonough%2C%20GA%2C%20United%20States&metadata=CikKFTE2MDAgUGVubnN5bHZhbmlhIEF2ZRIECAAQBBIECAUQDBIECAAQERIeChxNY0Rvbm91Z2gsIEdBLCBVbml0ZWQgU3RhdGVzGAIyRwoSCQAAAIC0t0BAEQAAAAAWC1XAEOaIg5DEy8SnOiA5KQAAAAAAAHlAgvEEBDE2MDCI8QQxmvEEAlVToPEEALLxBAC68QQAYhMKETE2MDAgUGVubnN5bHZhbmlhgvEEETE2MDAgUGVubnN5bHZhbmlhiPEEANrxBBYJAAAAoFnYnkAZAAAAAAAAAAAgASgD6vEEAA%3D%3D",
+      "place": {
+        "id": null,
+        "name": "1600 Pennsylvania Ave",
+        "coordinate": {
+          "latitude": 33.4358358,
+          "longitude": -84.1728268
+        },
+        "formattedAddressLines": [
+          "1600 Pennsylvania Ave",
+          "McDonough, GA  30253",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "Georgia",
+          "administrativeAreaCode": "GA",
+          "subAdministrativeArea": null,
+          "areasOfInterest": null,
+          "dependentLocalities": null,
+          "fullThoroughfare": "1600 Pennsylvania Ave",
+          "locality": "McDonough",
+          "postCode": "30253",
+          "subLocality": null,
+          "subThoroughfare": "1600",
+          "thoroughfare": "Pennsylvania Ave"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -84.16744446552559,
+          "northLatitude": 33.4403273764206,
+          "southLatitude": 33.4313442235794,
+          "westLongitude": -84.1782091344744
+        },
+        "alternateIds": null,
+        "poiCategory": null
+      }
+    },
+    {
+      "completionUrl": "/v1/search?q=1%20Infinite%20Loop%20Cupertino%2C%20CA%2C%20United%20States&metadata=CikKDzEgSW5maW5pdGUgTG9vcBIECAAQARIECAIQCBIECAsQBBIECAAQDxIeChxDdXBlcnRpbm8sIENBLCBVbml0ZWQgU3RhdGVzGAIyRAoSCQAAAACBqkJAEQAAAAD4gV7AEKivk9O5neDUdyA5KQAAAAAAAHlAgvEEATGI8QQxmvEEAlVToPEEALLxBAC68QQAYhEKDzEgSW5maW5pdGUgTG9vcILxBA8xIEluZmluaXRlIExvb3CI8QQA2vEEFgkAAACATJCXQBkAAAAAAAAAACABKAPq8QQAkPIEAQ%3D%3D",
+      "place": {
+        "id": null,
+        "name": "1 Infinite Loop",
+        "coordinate": {
+          "latitude": 37.331656,
+          "longitude": -122.0301426
+        },
+        "formattedAddressLines": [
+          "1 Infinite Loop",
+          "Cupertino, CA  95014",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "California",
+          "administrativeAreaCode": "CA",
+          "subAdministrativeArea": null,
+          "areasOfInterest": ["Apple Inc. - Infinite Loop Campus"],
+          "dependentLocalities": null,
+          "fullThoroughfare": "1 Infinite Loop",
+          "locality": "Cupertino",
+          "postCode": "95014",
+          "subLocality": null,
+          "subThoroughfare": "1",
+          "thoroughfare": "Infinite Loop"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -122.0244938027928,
+          "northLatitude": 37.3361475764206,
+          "southLatitude": 37.327164423579404,
+          "westLongitude": -122.0357913972072
+        },
+        "alternateIds": null,
+        "poiCategory": null
+      }
+    },
+    {
+      "completionUrl": "/v1/search?q=Apple%20Campus%20-%20One%20Infinite%20Loop%20Apple%20Inc.%2C%201%20Infinite%20Loop%2C%20Cupertino%2C%20CA%2095014%2C%20United%20States&metadata=Ci4KIEFwcGxlIENhbXB1cyAtIE9uZSBJbmZpbml0ZSBMb29wEgQIExAIEgQIHBAEEkEKP0FwcGxlIEluYy4sIDEgSW5maW5pdGUgTG9vcCwgQ3VwZXJ0aW5vLCBDQSA5NTAxNCwgVW5pdGVkIFN0YXRlcxgBKiIKEgkAAABgeqpCQBEAAADg5IFewBD0h4aD8Nbb7ZIBGK5NYhEKDzEgSW5maW5pdGUgTG9vcILxBA8xIEluZmluaXRlIExvb3CI8QQA2vEERgkAAACg7I%2BXQBEAAACAPUqJQDICZW5CLmNvbW1lcmNpYWxfc2VjdG9yLnJlYWxfZXN0YXRlLmNvcnBvcmF0ZV9jYW1wdXPq8QQA",
+      "place": {
+        "id": "I92DB6EB7006183F4",
+        "name": "Apple Campus - One Infinite Loop",
+        "coordinate": {
+          "latitude": 37.331859,
+          "longitude": -122.0295936
+        },
+        "formattedAddressLines": [
+          "Apple Inc.",
+          "1 Infinite Loop",
+          "Cupertino, CA 95014",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "California",
+          "administrativeAreaCode": "CA",
+          "subAdministrativeArea": null,
+          "areasOfInterest": null,
+          "dependentLocalities": null,
+          "fullThoroughfare": "1 Infinite Loop",
+          "locality": "Cupertino",
+          "postCode": "95014",
+          "subLocality": null,
+          "subThoroughfare": "1",
+          "thoroughfare": "Infinite Loop"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -122.0277663,
+          "northLatitude": 37.3340923,
+          "southLatitude": 37.3302514,
+          "westLongitude": -122.0321717
+        },
+        "alternateIds": ["I63A4EC89B7807D56"],
+        "poiCategory": null
+      }
+    },
+    {
+      "completionUrl": "/v1/search?q=1%20Infinite%20Dr%20Louisville%2C%20CO%2C%20United%20States&metadata=ChsKDTEgSW5maW5pdGUgRHISBAgAEAESBAgCEAgSHwodTG91aXN2aWxsZSwgQ08sIFVuaXRlZCBTdGF0ZXMYAjJAChIJAAAAwOP7Q0ARAAAAYAtLWsAQkuuD0pK4vLREIDkpAAAAAAAAeUCC8QQBMYjxBDGa8QQCVVOy8QQAuvEEAGIRCg8xIEluZmluaXRlIExvb3CC8QQPMSBJbmZpbml0ZSBMb29wiPEEANrxBBYJAAAAwPlMQ0AZAAAAAAAAAAAgASgD6vEEAJDyBAE%3D",
+      "place": {
+        "id": null,
+        "name": "Infinite Dr",
+        "coordinate": {
+          "latitude": 39.96788961133486,
+          "longitude": -105.17256716347525
+        },
+        "formattedAddressLines": [
+          "Infinite Dr",
+          "Louisville, CO  80027",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "Colorado",
+          "administrativeAreaCode": "CO",
+          "subAdministrativeArea": null,
+          "areasOfInterest": null,
+          "dependentLocalities": ["Centennial Valley"],
+          "fullThoroughfare": "Infinite Dr",
+          "locality": "Louisville",
+          "postCode": "80027",
+          "subLocality": "Centennial Valley",
+          "subThoroughfare": null,
+          "thoroughfare": "Infinite Dr"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -105.1667073506555,
+          "northLatitude": 39.97237696070942,
+          "southLatitude": 39.96339380786822,
+          "westLongitude": -105.17842851299771
+        },
+        "alternateIds": null,
+        "poiCategory": null
+      }
+    },
+    {
+      "completionUrl": "/v1/search?q=Denver%20International%20Airport%208500%20Pe%C3%B1a%20Blvd%2C%20Denver%2C%20CO%20%2080249%2C%20United%20States&metadata=CiQKHERlbnZlciBJbnRlcm5hdGlvbmFsIEFpcnBvcnQSBAgAEAYSMwoxODUwMCBQZcOxYSBCbHZkLCBEZW52ZXIsIENPICA4MDI0OSwgVW5pdGVkIFN0YXRlcxgBKiEKEgkAAAAAtOxDQBEAAABgHytawBCLyITwiYmuzwkYrk1iCAoGRGVudmVygvEEBkRlbnZlcojxBADa8QRECQAAAGCJez1AEQAAACC1%2BNRAMgJlbkIsdHJhbnNwb3J0YXRpb24uYWlycG9ydC5pbnRlcm5hdGlvbmFsX2FpcnBvcnTq8QQA",
+      "place": {
+        "id": "I99EB8489E01240B",
+        "name": "Denver International Airport",
+        "coordinate": {
+          "latitude": 39.8492414,
+          "longitude": -104.6737902
+        },
+        "formattedAddressLines": [
+          "8500 Peña Blvd",
+          "Denver, CO  80249",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "Colorado",
+          "administrativeAreaCode": "CO",
+          "subAdministrativeArea": null,
+          "areasOfInterest": null,
+          "dependentLocalities": null,
+          "fullThoroughfare": "8500 Peña Blvd",
+          "locality": "Denver",
+          "postCode": "80249",
+          "subLocality": null,
+          "subThoroughfare": "8500",
+          "thoroughfare": "Peña Blvd"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -104.6078447,
+          "northLatitude": 39.904209,
+          "southLatitude": 39.8174121,
+          "westLongitude": -104.737595
+        },
+        "alternateIds": null,
+        "poiCategory": "Airport"
+      }
+    },
+    {
+      "completionUrl": "/v1/search?q=Denver%2C%20CO%20United%20States&metadata=ChIKCkRlbnZlciwgQ08SBAgAEAYSDwoNVW5pdGVkIFN0YXRlcxgCMtgJChIJAAAAgJ7eQ0ARAAAAIGE%2FWsAQz%2FiZ0Z2C0Z9oIBApAAAAAAAAeUCI8QT4B5rxBAJVU6rxBJcJMTg5NDU2Njc1NTU2NTU2OTUyOjEwNjAsMTkzOTYwMjc1MTg3MDczMjEzOjEwNjAsMTkzOTYwMjc1MjA1OTQ3NTMxOjEwNjAsMTgwNDQ5NDc2MzE4NTkzMjM3OjEwNjAsMTk4NDYzODc0NzU3ODIwNjI5OjEwNjAsMTk4NDYzODc0OTAwNDI2ODk1OjEwNjAsMTg5NDU2Njc1NjA1ODQwMDIzOjEwNjAsMTk4NDYzODc0NzgxOTM3OTA5OjEwNjAsMTkzOTYwMjc1MTU2NjY0NTAzOjEwNjAsMTg5NDU2Njc1NTE1NjYyNTA3OjEwNjAsMTk4NDYzODc0NzAwMTQ5MTUzOjEwNjAsMTkzOTYwMjc1MDgxMTY3MDU1OjEwNjAsMTg5NDU2Njc1NTc5NjI1NjM1OjEwNjAsMTg0OTUzMDc1OTI4MTM3ODY5OjEwNjAsMTkzOTYwMjc1MjM1MzA3NjE3OjEwNjAsMTg0OTUzMDc1OTM2NTI2Nzk1OjEwNjAsMTg0OTUzMDc1ODkzNTM0OTkxOjEwNjAsMTg0OTUzMDc1ODM1ODYzNDEyOjEwNjAsMTk4NDYzODc0NzAzMjk0NzYxOjEwNjAsMTkzOTYwMjc1MTkzMzY0NjA1OjEwNjAsMTgwNDQ5NDc2MjEyNjg2OTYzOjEwNjAsMTgwNDQ5NDc2MjEyNjg3MTEzOjEwNjAsMTkzOTYwMjc1MTU5ODEwMzc4OjEwNjAsMTg0OTUzMDc1OTI4MTM3OTYzOjEwNjAsMTk4NDYzODc0NzU3ODIwNzU5OjEwNjAsMTkzOTYwMjc1MTU2NjY0NTg5OjEwNjAsMTgwNDQ5NDc2MzE4NTkzMTk1OjEwNjAsMTg0OTUzMDc1OTQ5MTA5NjE1OjEwNjAsMTk4NDYzODc0NzM3ODk3ODAxOjEwNjAsMTkzOTYwMjc1MTkzMzY0NjY5OjEwNjAsMTkzOTYwMjc1MjM1MzA3NzMzOjEwNjAsMTgwNDQ5NDc2MjEyNjg3MDczOjEwNjAsMTk4NDYzODc0NzEyNzMxODE1OjEwNjAsMTg0OTUzMDc1ODkzNTM0ODQ1OjEwNjAsMTQ0MTUwMDgwNzI0NjcxMjQwOjEwMTYsMTk4NDYzODc0NzU3ODIwNjU1OjEwNjAsMTgwNDQ5NDc2MjkzNDI3MzQxOjEwNjAsMTkzOTYwMjc2NzMzNzIyODk1OjEwNjAsMTkzOTYwMjc1MTc4Njg0Njc5OjEwNjAsMTg5NDU2Njc1NTc5NjI1NjA3OjEwNjAsMTkzOTYwMjc1MTc4Njg0NTU5OjEwNjAsMTk4NDYzODc0NzgxOTM3Nzk1OjEwNjAsMTkzOTYwMjc1MTA0MjM1ODAxOjEwNjAsMTkzOTYwMjc1MTMyNTQ3MjY5OjEwNjAsMTkzOTYwMjc1MTA0MjM1NjkzOjEwNjAsMTgwNDQ5NDc2MjEyNjg3MjE3OjEwNjAsMTk4NDYzODc0NzEyNzMxODg5OjEwNjAsMTkzOTYwMjc1MjA1OTQ3NjAxOjEwNjAsMTgwNDQ5NDc2MzQyNzEwNDMzOjEwNjCy8QQAuvEEAGIICgZEZW52ZXKC8QQGRGVudmVyiPEEANrxBBgJAAAAwJOZIUAZAAAAAMBw0EAgod4rKALq8QQA",
+      "place": {
+        "id": null,
+        "name": "Denver, CO",
+        "coordinate": {
+          "latitude": 39.739212,
+          "longitude": -104.9903028
+        },
+        "formattedAddressLines": ["Denver, CO", "United States"],
+        "structuredAddress": {
+          "administrativeArea": "Colorado",
+          "administrativeAreaCode": "CO",
+          "subAdministrativeArea": null,
+          "areasOfInterest": null,
+          "dependentLocalities": null,
+          "fullThoroughfare": null,
+          "locality": "Denver",
+          "postCode": null,
+          "subLocality": null,
+          "subThoroughfare": null,
+          "thoroughfare": null
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -104.4756868,
+          "northLatitude": 40.2527497,
+          "southLatitude": 39.2983762,
+          "westLongitude": -105.4527755
+        },
+        "alternateIds": null,
+        "poiCategory": null
+      }
+    },
+    {
+      "completionUrl": "/v1/search?q=University%20of%20Denver%202199%20S%20University%20Blvd&metadata=ChwKFFVuaXZlcnNpdHkgb2YgRGVudmVyEgQIDhAGEhgKFjIxOTkgUyBVbml2ZXJzaXR5IEJsdmQYASohChIJAAAA4MXWQ0ARAAAA4KU9WsAQicCk2un4orlPGK5NYggKBkRlbnZlcoLxBAZEZW52ZXKI8QQA2vEESAkAAACgk28FQBEAAAAgbrLAQDICZW5CMGNpdmlsX3NlcnZpY2UuZWR1Y2F0aW9uYWxfaW5zdGl0dXRpb24udW5pdmVyc2l0eerxBAA%3D",
+      "place": {
+        "id": "I4F728BC69B492009",
+        "name": "University of Denver",
+        "coordinate": {
+          "latitude": 39.6779121,
+          "longitude": -104.9632502
+        },
+        "formattedAddressLines": [
+          "2199 S University Blvd\nDenver, CO  80208\nUnited States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "Colorado",
+          "administrativeAreaCode": "CO",
+          "subAdministrativeArea": null,
+          "areasOfInterest": null,
+          "dependentLocalities": ["Southeast", "University"],
+          "fullThoroughfare": "2199 S University Blvd",
+          "locality": "Denver",
+          "postCode": "80208",
+          "subLocality": "University",
+          "subThoroughfare": "2199",
+          "thoroughfare": "S University Blvd"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -104.9519938,
+          "northLatitude": 39.6854826,
+          "southLatitude": 39.6712286,
+          "westLongitude": -104.9664071
+        },
+        "alternateIds": null,
+        "poiCategory": "University"
+      }
+    },
+    {
+      "completionUrl": "/v1/search?q=350%205th%20Ave%20Huntington%2C%20WV%2C%20United%20States&metadata=Ch8KCzM1MCA1dGggQXZlEgQIABADEgQIBBADEgQICBADEh8KHUh1bnRpbmd0b24sIFdWLCBVbml0ZWQgU3RhdGVzGAIyRwoSCQAAAGB3NUNAEQAAACACnVTAEN7Nk%2BucwMOu3gEgOSkAAAAAAAB5QILxBAMzNTCI8QQxmvEEAlVToPEEALLxBAC68QQAYhAKDjM1MCA1dGggQXZlbnVlgvEEDjM1MCA1dGggQXZlbnVliPEEANrxBBYJAAAAoNNUnkAZAAAAAAAAAAAgASgD6vEEAA%3D%3D",
+      "place": {
+        "id": null,
+        "name": "350 5th Ave",
+        "coordinate": {
+          "latitude": 38.4181652,
+          "longitude": -82.4523854
+        },
+        "formattedAddressLines": [
+          "350 5th Ave",
+          "Huntington, WV  25701",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "West Virginia",
+          "administrativeAreaCode": "WV",
+          "subAdministrativeArea": null,
+          "areasOfInterest": null,
+          "dependentLocalities": null,
+          "fullThoroughfare": "350 5th Ave",
+          "locality": "Huntington",
+          "postCode": "25701",
+          "subLocality": null,
+          "subThoroughfare": "350",
+          "thoroughfare": "5th Ave"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -82.44665266668045,
+          "northLatitude": 38.422656776420595,
+          "southLatitude": 38.4136736235794,
+          "westLongitude": -82.45811813331954
+        },
+        "alternateIds": null,
+        "poiCategory": null
+      }
+    },
+    {
+      "completionUrl": "/v1/search?q=350%20Fifth%20Ave%20N%20South%20Saint%20Paul%2C%20MN%2C%20United%20States&metadata=Ch0KDzM1MCBGaWZ0aCBBdmUgThIECAAQAxIECAoQAxIlCiNTb3V0aCBTYWludCBQYXVsLCBNTiwgVW5pdGVkIFN0YXRlcxgCMkYKEgkAAAAgcHJGQBEAAADgiEJXwBChosKWhLjBtgwgOSkAAAAAAAB5QILxBAMzNTCI8QQxmvEEAlVToPEEALLxBAC68QQAYhAKDjM1MCA1dGggQXZlbnVlgvEEDjM1MCA1dGggQXZlbnVliPEEANrxBBYJAAAAgJG%2FkUAZAAAAAAAAAAAgASgD6vEEAA%3D%3D",
+      "place": {
+        "id": null,
+        "name": "350 Fifth Ave N",
+        "coordinate": {
+          "latitude": 44.8957336,
+          "longitude": -93.0393636
+        },
+        "formattedAddressLines": [
+          "350 Fifth Ave N",
+          "South Saint Paul, MN  55075",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "Minnesota",
+          "administrativeAreaCode": "MN",
+          "subAdministrativeArea": null,
+          "areasOfInterest": null,
+          "dependentLocalities": null,
+          "fullThoroughfare": "350 Fifth Ave N",
+          "locality": "South Saint Paul",
+          "postCode": "55075",
+          "subLocality": null,
+          "subThoroughfare": "350",
+          "thoroughfare": "Fifth Ave N"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -93.03302307963253,
+          "northLatitude": 44.9002251764206,
+          "southLatitude": 44.8912420235794,
+          "westLongitude": -93.04570412036747
+        },
+        "alternateIds": null,
+        "poiCategory": null
+      }
+    },
+    {
+      "completionUrl": "/v1/search?q=350%20Fifth%20Ave%20N%20Clinton%2C%20IA%2C%20United%20States&metadata=Ch0KDzM1MCBGaWZ0aCBBdmUgThIECAAQAxIECAoQAxIcChpDbGludG9uLCBJQSwgVW5pdGVkIFN0YXRlcxgCMkYKEgkAAADgrexEQBEAAADAro1WwBCNpo%2Bb3ovz%2FEogOSkAAAAAAAB5QILxBAMzNTCI8QQxmvEEAlVToPEEALLxBAC68QQAYhAKDjM1MCA1dGggQXZlbnVlgvEEDjM1MCA1dGggQXZlbnVliPEEANrxBBYJAAAAAGy1k0AZAAAAAAAAAAAgASgD6vEEAA%3D%3D",
+      "place": {
+        "id": null,
+        "name": "350 Fifth Ave N",
+        "coordinate": {
+          "latitude": 41.8500367,
+          "longitude": -90.1920789
+        },
+        "formattedAddressLines": [
+          "350 Fifth Ave N",
+          "Clinton, IA  52732",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "Iowa",
+          "administrativeAreaCode": "IA",
+          "subAdministrativeArea": null,
+          "areasOfInterest": null,
+          "dependentLocalities": null,
+          "fullThoroughfare": "350 Fifth Ave N",
+          "locality": "Clinton",
+          "postCode": "52732",
+          "subLocality": null,
+          "subThoroughfare": "350",
+          "thoroughfare": "Fifth Ave N"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -90.1860490774357,
+          "northLatitude": 41.8545281764206,
+          "southLatitude": 41.845545023579405,
+          "westLongitude": -90.1981087225643
+        },
+        "alternateIds": null,
+        "poiCategory": null
+      }
+    },
+    {
+      "completionUrl": "/v1/search?q=11%20Wall%20St%20New%20York%2C%20NY%2C%20United%20States&metadata=Ch4KCjExIFdhbGwgU3QSBAgAEAISBAgDEAQSBAgIEAISIwobTmV3IFlvcmssIE5ZLCBVbml0ZWQgU3RhdGVzEgQIFRACGAIyRQoSCQAAAABqWkRAEQAAAMCbgFLAEN3p6cedhI%2BqdSA5KQAAAAAAAHlAgvEEAjExiPEEMZrxBAJVU6DxBACy8QQAuvEEAGIQCg4xMSBXYWxsIFN0cmVldILxBA4xMSBXYWxsIFN0cmVldIjxBADa8QQWCQAAAEA0b6RAGQAAAAAAAAAAIAEoA%2BrxBAA%3D",
+      "place": {
+        "id": null,
+        "name": "11 Wall St",
+        "coordinate": {
+          "latitude": 40.7069221,
+          "longitude": -74.0112629
+        },
+        "formattedAddressLines": [
+          "11 Wall St",
+          "New York, NY  10005",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "New York",
+          "administrativeAreaCode": "NY",
+          "subAdministrativeArea": null,
+          "areasOfInterest": ["New York Stock Exchange", "Manhattan"],
+          "dependentLocalities": ["Financial District", "North Hudson"],
+          "fullThoroughfare": "11 Wall St",
+          "locality": "New York",
+          "postCode": "10005",
+          "subLocality": "Manhattan",
+          "subThoroughfare": "11",
+          "thoroughfare": "Wall St"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -74.00533777165026,
+          "northLatitude": 40.7114136764206,
+          "southLatitude": 40.7024305235794,
+          "westLongitude": -74.01718802834975
+        },
+        "alternateIds": null,
+        "poiCategory": null
+      }
+    },
+    {
+      "completionUrl": "/v1/search?q=Pier%2011%20%2F%20Wall%20Street%20Terminal%20New%20York%2C%20NY%2C%20United%20States&metadata=CjgKHlBpZXIgMTEgLyBXYWxsIFN0cmVldCBUZXJtaW5hbBIECAUQAhIECAoQBBIECA8QBhIECAUQEBIdChtOZXcgWW9yaywgTlksIFVuaXRlZCBTdGF0ZXMYASotChIJAAAAgPVZREARAAAAoGSAUsAQ2NfWwKbX7%2BUtGK5NgPEE4%2F%2BRoYqmvblpYhAKDjExIFdhbGwgU3RyZWV0gvEEDjExIFdhbGwgU3RyZWV0iPEEANrxBEsJAAAAQN9vpEARAAAA4COJtkAyAmVuQjN0cmFuc3BvcnRhdGlvbi50cmFuc3BvcnRhdGlvbl9zZXJ2aWNlLmZlcnJ5X3NlcnZpY2Xq8QQA",
+      "place": {
+        "id": "I2DCBBEBA6815ABD8",
+        "name": "Pier 11 / Wall Street Terminal",
+        "coordinate": {
+          "latitude": 40.7028033,
+          "longitude": -74.0061433
+        },
+        "formattedAddressLines": ["New York, NY", "United States"],
+        "structuredAddress": {
+          "administrativeArea": "New York",
+          "administrativeAreaCode": "NY",
+          "subAdministrativeArea": null,
+          "areasOfInterest": null,
+          "dependentLocalities": null,
+          "fullThoroughfare": null,
+          "locality": "New York",
+          "postCode": null,
+          "subLocality": null,
+          "subThoroughfare": null,
+          "thoroughfare": null
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -74.0060433,
+          "northLatitude": 40.7029033,
+          "southLatitude": 40.7027033,
+          "westLongitude": -74.0062433
+        },
+        "alternateIds": null,
+        "poiCategory": "PublicTransport"
+      }
+    },
+    {
+      "completionUrl": "/v1/search?q=11%20Wall%20St%20Asheville%2C%20NC%2C%20United%20States&metadata=Ch4KCjExIFdhbGwgU3QSBAgAEAISBAgDEAQSBAgIEAISJAocQXNoZXZpbGxlLCBOQywgVW5pdGVkIFN0YXRlcxIECBYQAhgCMkUKEgkAAABAHcxBQBEAAAAAk6NUwBDniL6dxcz3zhogOSkAAAAAAAB5QILxBAIxMYjxBDGa8QQCVVOg8QQAsvEEALrxBABiEAoOMTEgV2FsbCBTdHJlZXSC8QQOMTEgV2FsbCBTdHJlZXSI8QQA2vEEFgkAAADg%2FICfQBkAAAAAAAAAACABKAPq8QQA",
+      "place": {
+        "id": null,
+        "name": "11 Wall St",
+        "coordinate": {
+          "latitude": 35.5950618,
+          "longitude": -82.5551916
+        },
+        "formattedAddressLines": [
+          "11 Wall St",
+          "Asheville, NC  28801",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "North Carolina",
+          "administrativeAreaCode": "NC",
+          "subAdministrativeArea": null,
+          "areasOfInterest": null,
+          "dependentLocalities": ["Downtown"],
+          "fullThoroughfare": "11 Wall St",
+          "locality": "Asheville",
+          "postCode": "28801",
+          "subLocality": "Downtown",
+          "subThoroughfare": "11",
+          "thoroughfare": "Wall St"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -82.54966793120109,
+          "northLatitude": 35.5995533764206,
+          "southLatitude": 35.590570223579405,
+          "westLongitude": -82.56071526879892
+        },
+        "alternateIds": null,
+        "poiCategory": null
+      }
+    }
+  ],
+  "reverseGeocode": [
+    {
+      "latitude": 38.8977,
+      "longitude": -77.0365,
+      "place": {
+        "id": null,
+        "name": "The White House",
+        "coordinate": {
+          "latitude": 38.8976635,
+          "longitude": -77.036574
+        },
+        "formattedAddressLines": [
+          "The White House",
+          "1600 Pennsylvania Ave NW",
+          "Washington, DC  20500",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "District of Columbia",
+          "administrativeAreaCode": "DC",
+          "subAdministrativeArea": null,
+          "areasOfInterest": ["The White House", "President's Park"],
+          "dependentLocalities": ["Washington Mall"],
+          "fullThoroughfare": "1600 Pennsylvania Ave NW",
+          "locality": "Washington",
+          "postCode": "20500",
+          "subLocality": "Washington Mall",
+          "subThoroughfare": "1600",
+          "thoroughfare": "Pennsylvania Ave NW"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -77.03080275917075,
+          "northLatitude": 38.9021550764206,
+          "southLatitude": 38.8931719235794,
+          "westLongitude": -77.04234524082925
+        },
+        "alternateIds": null
+      }
+    },
+    {
+      "latitude": 37.3346,
+      "longitude": -122.009,
+      "place": {
+        "id": null,
+        "name": "Apple Park",
+        "coordinate": {
+          "latitude": 37.334859,
+          "longitude": -122.0090403
+        },
+        "formattedAddressLines": [
+          "Apple Park",
+          "1 Apple Park Way",
+          "Cupertino, CA  95014",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "California",
+          "administrativeAreaCode": "CA",
+          "subAdministrativeArea": null,
+          "areasOfInterest": ["Apple Park"],
+          "dependentLocalities": null,
+          "fullThoroughfare": "1 Apple Park Way",
+          "locality": "Cupertino",
+          "postCode": "95014",
+          "subLocality": null,
+          "subThoroughfare": "1",
+          "thoroughfare": "Apple Park Way"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -122.00339126193482,
+          "northLatitude": 37.3393505764206,
+          "southLatitude": 37.3303674235794,
+          "westLongitude": -122.01468933806517
+        },
+        "alternateIds": null
+      }
+    },
+    {
+      "latitude": 40.7484,
+      "longitude": -73.9857,
+      "place": {
+        "id": null,
+        "name": "Empire State Building",
+        "coordinate": {
+          "latitude": 40.7482984,
+          "longitude": -73.9857337
+        },
+        "formattedAddressLines": [
+          "Empire State Building",
+          "19 W 33rd St",
+          "New York, NY  10001",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "New York",
+          "administrativeAreaCode": "NY",
+          "subAdministrativeArea": null,
+          "areasOfInterest": ["Empire State Building", "Manhattan"],
+          "dependentLocalities": [
+            "Koreatown",
+            "Midtown South",
+            "Midtown",
+            "North Hudson"
+          ],
+          "fullThoroughfare": "19 W 33rd St",
+          "locality": "New York",
+          "postCode": "10001",
+          "subLocality": "Manhattan",
+          "subThoroughfare": "19",
+          "thoroughfare": "W 33rd St"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -73.97980488652632,
+          "northLatitude": 40.7527899764206,
+          "southLatitude": 40.743806823579405,
+          "westLongitude": -73.99166251347367
+        },
+        "alternateIds": null
+      }
+    },
+    {
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "place": {
+        "id": null,
+        "name": "Los Angeles Police Department - Headquarters",
+        "coordinate": {
+          "latitude": 34.0521727,
+          "longitude": -118.243673
+        },
+        "formattedAddressLines": [
+          "Los Angeles Police Department - Headquarters",
+          "31 S Main St",
+          "Los Angeles, CA  90012",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "California",
+          "administrativeAreaCode": "CA",
+          "subAdministrativeArea": null,
+          "areasOfInterest": ["Los Angeles Police Department - Headquarters"],
+          "dependentLocalities": [
+            "Old Bank District",
+            "Historic Core",
+            "Civic Center",
+            "Downtown"
+          ],
+          "fullThoroughfare": "31 S Main St",
+          "locality": "Los Angeles",
+          "postCode": "90012",
+          "subLocality": "Old Bank District",
+          "subThoroughfare": "31",
+          "thoroughfare": "S Main St"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -118.23825184799877,
+          "northLatitude": 34.0566642764206,
+          "southLatitude": 34.0476811235794,
+          "westLongitude": -118.24909415200123
+        },
+        "alternateIds": null
+      }
+    },
+    {
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "place": {
+        "id": null,
+        "name": "Denver City and County Building - City Hall",
+        "coordinate": {
+          "latitude": 39.739237,
+          "longitude": -104.9910376
+        },
+        "formattedAddressLines": [
+          "Denver City and County Building - City Hall",
+          "1437 Bannock St",
+          "Denver, CO  80202",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "Colorado",
+          "administrativeAreaCode": "CO",
+          "subAdministrativeArea": null,
+          "areasOfInterest": ["Denver City and County Building - City Hall"],
+          "dependentLocalities": [
+            "Civic Center",
+            "Golden Triangle",
+            "Southwest"
+          ],
+          "fullThoroughfare": "1437 Bannock St",
+          "locality": "Denver",
+          "postCode": "80202",
+          "subLocality": "Civic Center",
+          "subThoroughfare": "1437",
+          "thoroughfare": "Bannock St"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -104.98519650929765,
+          "northLatitude": 39.7437285764206,
+          "southLatitude": 39.734745423579405,
+          "westLongitude": -104.99687869070235
+        },
+        "alternateIds": null
+      }
+    },
+    {
+      "latitude": 25.7617,
+      "longitude": -80.1918,
+      "place": {
+        "id": null,
+        "name": "1201 Brickell Ave",
+        "coordinate": {
+          "latitude": 25.7618832,
+          "longitude": -80.1912567
+        },
+        "formattedAddressLines": [
+          "1201 Brickell Ave",
+          "Miami, FL  33131",
+          "United States"
+        ],
+        "structuredAddress": {
+          "administrativeArea": "Florida",
+          "administrativeAreaCode": "FL",
+          "subAdministrativeArea": null,
+          "areasOfInterest": null,
+          "dependentLocalities": [
+            "Miami Financial District",
+            "Upper Brickell",
+            "Brickell",
+            "Downtown"
+          ],
+          "fullThoroughfare": "1201 Brickell Ave",
+          "locality": "Miami",
+          "postCode": "33131",
+          "subLocality": "Miami Financial District",
+          "subThoroughfare": "1201",
+          "thoroughfare": "Brickell Ave"
+        },
+        "country": "United States",
+        "countryCode": "US",
+        "displayMapRegion": {
+          "eastLongitude": -80.18626942935157,
+          "northLatitude": 25.766374776420598,
+          "southLatitude": 25.7573916235794,
+          "westLongitude": -80.19624397064842
+        },
+        "alternateIds": null
+      }
+    }
+  ]
+}
